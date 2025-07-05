@@ -1,0 +1,142 @@
+{
+  "javaVersions": {
+    "1.19.2": {
+      "version": 17,
+      "path": null
+    },
+    "1.20.1": {
+      "version": 17,
+      "path": null
+    },
+    "1.20.6": {
+      "version": 21,
+      "path": null
+    },
+    "1.21.1": {
+      "version": 21,
+      "path": null
+    },
+    "1.21.3": {
+      "version": 21,
+      "path": null
+    },
+    "1.21.4": {
+      "version": 21,
+      "path": null
+    },
+    "1.21.5": {
+      "version": 21,
+      "path": null
+    }, 
+    "1.21.6": {
+      "version": 21,
+      "path": null
+    }, 
+    "1.21.7": {
+      "version": 21,
+      "path": null
+    }
+  },
+  "defaultJavaPaths": {
+    "windows": {
+      "17": [
+        "C:\\Program Files\\Eclipse Adoptium\\jdk-17.0.12.7-hotspot\\bin\\javaw.exe",
+        "C:\\Program Files\\Eclipse Adoptium\\jdk-17.0.11.9-hotspot\\bin\\javaw.exe",
+        "C:\\Program Files\\Eclipse Adoptium\\jdk-17.0.10.7-hotspot\\bin\\javaw.exe",
+        "C:\\Program Files\\Java\\jdk-17\\bin\\javaw.exe",
+        "C:\\Program Files\\Java\\jdk-17.0.12\\bin\\javaw.exe",
+        "C:\\Program Files\\Java\\jdk-17.0.11\\bin\\javaw.exe",
+        "C:\\Program Files\\Java\\jdk-17.0.10\\bin\\javaw.exe",
+        "C:\\Program Files (x86)\\Java\\jdk-17\\bin\\javaw.exe",
+        "C:\\Program Files (x86)\\Java\\jdk-17.0.12\\bin\\javaw.exe",
+        "C:\\Program Files (x86)\\Java\\jdk-17.0.11\\bin\\javaw.exe",
+        "C:\\Program Files (x86)\\Java\\jdk-17.0.10\\bin\\javaw.exe",
+        "C:\\Program Files\\Microsoft\\jdk-17.0.12-hotspot\\bin\\javaw.exe",
+        "C:\\Program Files\\Microsoft\\jdk-17.0.11-hotspot\\bin\\javaw.exe",
+        "C:\\Program Files\\Amazon Corretto\\jdk17.0.12_7\\bin\\javaw.exe",
+        "C:\\Program Files\\Amazon Corretto\\jdk17.0.11_9\\bin\\javaw.exe",
+        "C:\\Program Files\\Zulu\\zulu-17\\bin\\javaw.exe"
+      ],
+      "21": [
+        "C:\\Program Files\\Eclipse Adoptium\\jdk-21.0.4.7-hotspot\\bin\\javaw.exe",
+        "C:\\Program Files\\Eclipse Adoptium\\jdk-21.0.3.9-hotspot\\bin\\javaw.exe",
+        "C:\\Program Files\\Eclipse Adoptium\\jdk-21.0.2.13-hotspot\\bin\\javaw.exe",
+        "C:\\Program Files\\Java\\jdk-21\\bin\\javaw.exe",
+        "C:\\Program Files\\Java\\jdk-21.0.4\\bin\\javaw.exe",
+        "C:\\Program Files\\Java\\jdk-21.0.3\\bin\\javaw.exe",
+        "C:\\Program Files\\Java\\jdk-21.0.2\\bin\\javaw.exe",
+        "C:\\Program Files (x86)\\Java\\jdk-21\\bin\\javaw.exe",
+        "C:\\Program Files (x86)\\Java\\jdk-21.0.4\\bin\\javaw.exe",
+        "C:\\Program Files (x86)\\Java\\jdk-21.0.3\\bin\\javaw.exe",
+        "C:\\Program Files (x86)\\Java\\jdk-21.0.2\\bin\\javaw.exe",
+        "C:\\Program Files\\Microsoft\\jdk-21.0.4-hotspot\\bin\\javaw.exe",
+        "C:\\Program Files\\Microsoft\\jdk-21.0.3-hotspot\\bin\\javaw.exe",
+        "C:\\Program Files\\Amazon Corretto\\jdk21.0.4_7\\bin\\javaw.exe",
+        "C:\\Program Files\\Amazon Corretto\\jdk21.0.3_9\\bin\\javaw.exe",
+        "C:\\Program Files\\Zulu\\zulu-21\\bin\\javaw.exe"
+      ]
+    },
+    "linux": {
+      "17": [
+        "/usr/lib/jvm/java-17-openjdk/bin/java",
+        "/usr/lib/jvm/java-17-openjdk-amd64/bin/java",
+        "/usr/lib/jvm/java-17-oracle/bin/java",
+        "/usr/lib/jvm/jdk-17/bin/java",
+        "/usr/lib/jvm/jdk-17-oracle-x64/bin/java",
+        "/usr/lib/jvm/temurin-17-jdk-amd64/bin/java",
+        "/usr/lib/jvm/adoptopenjdk-17-hotspot-amd64/bin/java",
+        "/opt/java/jdk-17/bin/java",
+        "/opt/jdk-17/bin/java",
+        "/opt/openjdk-17/bin/java",
+        "/snap/openjdk/current/bin/java",
+        "/usr/bin/java-17-openjdk",
+        "/usr/bin/java",
+        "/home/*/jdk-17*/bin/java",
+        "/home/*/.sdkman/candidates/java/17*/bin/java"
+      ],
+      "21": [
+        "/usr/lib/jvm/java-21-openjdk/bin/java",
+        "/usr/lib/jvm/java-21-openjdk-amd64/bin/java",
+        "/usr/lib/jvm/java-21-oracle/bin/java",
+        "/usr/lib/jvm/jdk-21/bin/java",
+        "/usr/lib/jvm/jdk-21-oracle-x64/bin/java",
+        "/usr/lib/jvm/temurin-21-jdk-amd64/bin/java",
+        "/usr/lib/jvm/adoptopenjdk-21-hotspot-amd64/bin/java",
+        "/opt/java/jdk-21/bin/java",
+        "/opt/jdk-21/bin/java",
+        "/opt/openjdk-21/bin/java",
+        "/snap/openjdk/current/bin/java",
+        "/usr/bin/java-21-openjdk",
+        "/usr/bin/java",
+        "/home/*/jdk-21*/bin/java",
+        "/home/*/.sdkman/candidates/java/21*/bin/java"
+      ]
+    },
+    "darwin": {
+      "17": [
+        "/Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/bin/java",
+        "/Library/Java/JavaVirtualMachines/adoptopenjdk-17.jdk/Contents/Home/bin/java",
+        "/Library/Java/JavaVirtualMachines/jdk-17.jdk/Contents/Home/bin/java",
+        "/Library/Java/JavaVirtualMachines/jdk-17.0.12.jdk/Contents/Home/bin/java",
+        "/Library/Java/JavaVirtualMachines/jdk-17.0.11.jdk/Contents/Home/bin/java",
+        "/Library/Java/JavaVirtualMachines/jdk-17.0.10.jdk/Contents/Home/bin/java",
+        "/Library/Java/JavaVirtualMachines/amazon-corretto-17.jdk/Contents/Home/bin/java",
+        "/Library/Java/JavaVirtualMachines/zulu-17.jdk/Contents/Home/bin/java",
+        "/System/Library/Java/JavaVirtualMachines/jdk-17.jdk/Contents/Home/bin/java",
+        "/usr/bin/java"
+      ],
+      "21": [
+        "/Library/Java/JavaVirtualMachines/temurin-21.jdk/Contents/Home/bin/java",
+        "/Library/Java/JavaVirtualMachines/adoptopenjdk-21.jdk/Contents/Home/bin/java",
+        "/Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java",
+        "/Library/Java/JavaVirtualMachines/jdk-21.0.4.jdk/Contents/Home/bin/java",
+        "/Library/Java/JavaVirtualMachines/jdk-21.0.3.jdk/Contents/Home/bin/java",
+        "/Library/Java/JavaVirtualMachines/jdk-21.0.2.jdk/Contents/Home/bin/java",
+        "/Library/Java/JavaVirtualMachines/amazon-corretto-21.jdk/Contents/Home/bin/java",
+        "/Library/Java/JavaVirtualMachines/zulu-21.jdk/Contents/Home/bin/java",
+        "/System/Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java",
+        "/usr/bin/java"
+      ]
+    }
+  }
+}

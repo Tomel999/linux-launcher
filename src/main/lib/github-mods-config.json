@@ -1,0 +1,507 @@
+{
+  "repository": {
+    "owner": "Tomel999",
+    "name": "linux-launcher",
+    "url": "https://api.github.com/repos/Tomel999/linux-launcher"
+  },
+  "mods": {
+    "1.19.2": [
+      {
+        "fileName": "autosprintfix-1.0.0.jar",
+        "name": "autosprintfix-1.0.0.jar",
+        "tag": "1.19.2"
+      },
+      {
+        "fileName": "exordium-fabric-1.0.2-mc1.19.2.jar",
+        "name": "exordium-fabric-1.0.2-mc1.19.2.jar",
+        "tag": "1.19.2"
+      },
+      {
+        "fileName": "IAS-Fabric-1.19.2-9.0.3-SNAPSHOT.jar",
+        "name": "IAS-Fabric-1.19.2-9.0.3-SNAPSHOT.jar",
+        "tag": "1.19.2"
+      },
+      {
+        "fileName": "language-reload-1.6.2+1.19.2.jar",
+        "name": "language-reload-1.6.2+1.19.2.jar",
+        "tag": "1.19.2"
+      },
+      {
+        "fileName": "microdurability-0.4.0.jar",
+        "name": "microdurability-0.4.0.jar",
+        "tag": "1.19.2"
+      },
+      {
+        "fileName": "nofade-1.18-2.0.1.jar",
+        "name": "nofade-1.18-2.0.1.jar",
+        "tag": "1.19.2"
+      },
+      {
+        "fileName": "OgulniegaMod-11.jar",
+        "name": "OgulniegaMod-31.jar",
+        "tag": "1.19.2"
+      },
+      {
+        "fileName": "optifabric-1.14.jar",
+        "name": "optifabric-1.14.3b.jar",
+        "tag": "1.19.2"
+      },
+      {
+        "fileName": "OptiFine_1.19.2_HD_U_I1.jar",
+        "name": "OptiFine_1.19.2_HD_U_I1.jar",
+        "tag": "1.19.2"
+      },
+      {
+        "fileName": "perspektive-1.2.1.jar",
+        "name": "perspektive-1.2.1.jar",
+        "tag": "1.19.2"
+      }
+    ],
+    "1.20.1": [
+      {
+        "fileName": "enhancedblockentities-0.9+1.20.jar",
+        "name": "enhancedblockentities-0.9+1.20.jar",
+        "tag": "1.20.1"
+      },
+      {
+        "fileName": "exordium-fabric-1.0.3c-mc1.20.1.jar",
+        "name": "exordium-fabric-1.0.3c-mc1.20.1.jar",
+        "tag": "1.20.1"
+      },
+      {
+        "fileName": "morechathistory-1.3.0.jar",
+        "name": "morechathistory-1.3.0.jar",
+        "tag": "1.20.1"
+      },
+      {
+        "fileName": "IAS-Fabric-1.20.1-9.0.3-SNAPSHOT.jar",
+        "name": "IAS-Fabric-1.20.1-9.0.3-SNAPSHOT.jar",
+        "tag": "1.20.1"
+      },
+      {
+        "fileName": "microdurability-0.4.0.jar",
+        "name": "microdurability-0.4.0.jar",
+        "tag": "1.20.1"
+      },
+      {
+        "fileName": "nvidium-0.2.6b-beta.jar",
+        "name": "nvidium-0.2.6b-beta.jar",
+        "tag": "1.20.1"
+      },
+      {
+        "fileName": "OgulniegaMod-31.jar",
+        "name": "OgulniegaMod-31.jar",
+        "tag": "1.20.1"
+      },
+      {
+        "fileName": "perspektive-1.3.2.jar",
+        "name": "perspektive-1.3.2.jar",
+        "tag": "1.20.1"
+      },
+      {
+        "fileName": "Rrls-3.2.0b-1.20.1-fabric.jar",
+        "name": "Rrls-3.2.0b-1.20.1-fabric.jar",
+        "tag": "1.20.1"
+      },
+      {
+        "fileName": "SuperBetterGrass-1.5.2+1.20.1.jar",
+        "name": "SuperBetterGrass-1.5.2+1.20.1.jar",
+        "tag": "1.20.1"
+      },
+      {
+        "fileName": "c2me-fabric-mc1.20.1-0.2.0+alpha.11.16.jar",
+        "name": "c2me-fabric-mc1.20.1-0.2.0+alpha.11.16.jar",
+        "tag": "1.20.1"
+      },
+      {
+        "fileName": "bobberbegone-1.0.0+1.16.5-1.19.x.jar",
+        "name": "bobberbegone-1.0.0+1.16.5-1.19.x.jar",
+        "tag": "1.20.1"
+      }
+    ],
+    "1.20.6": [
+      {
+        "fileName": "bobby-5.2.1+mc1.20.6.jar",
+        "name": "bobby-5.2.1+mc1.20.6.jar",
+        "tag": "1.20.6"
+      },
+      {
+        "fileName": "brb-1.10.1+1.20.6.jar",
+        "name": "brb-1.10.1+1.20.6.jar",
+        "tag": "1.20.6"
+      },
+      {
+        "fileName": "IAS-Fabric-1.20.6-9.0.3-SNAPSHOT.jar",
+        "name": "IAS-Fabric-1.20.6-9.0.3-SNAPSHOT.jar",
+        "tag": "1.20.6"
+      },
+      {
+        "fileName": "microdurability-0.4.0.jar",
+        "name": "microdurability-0.4.0.jar",
+        "tag": "1.20.6"
+      },
+      {
+        "fileName": "nvidium-0.2.7c-beta.jar",
+        "name": "nvidium-0.2.7c-beta.jar",
+        "tag": "1.20.6"
+      },
+      {
+        "fileName": "OgulniegaMod-32.jar",
+        "name": "OgulniegaMod-32.jar",
+        "tag": "1.20.6"
+      },
+      {
+        "fileName": "perspektive-1.3.4.jar",
+        "name": "perspektive-1.3.4.jar",
+        "tag": "1.20.6"
+      },
+      {
+        "fileName": "rrls-4.1.0+mc1.20.6-fabric-a.jar",
+        "name": "rrls-4.1.0+mc1.20.6-fabric-a.jar",
+        "tag": "1.20.6"
+      },
+      {
+        "fileName": "starlight-1.1.3+fabric.f5dcd1a.jar",
+        "name": "starlight-1.1.3+fabric.f5dcd1a.jar",
+        "tag": "1.20.6"
+      },
+      {
+        "fileName": "borderless-mining-1.1.9+1.20.2.jar",
+        "name": "borderless-mining-1.1.9+1.20.2.jar",
+        "tag": "1.20.6"
+      },
+      {
+        "fileName": "entity-view-distance-1.3.0+1.21.jar",
+        "name": "entity-view-distance-1.3.0+1.21.jar",
+        "tag": "1.20.6"
+      },
+      {
+        "fileName": "memoryleakfix-fabric-1.17+-1.1.5.jar",
+        "name": "memoryleakfix-fabric-1.17+-1.1.5.jar",
+        "tag": "1.20.6"
+      },
+      {
+        "fileName": "fast-chest-1.6+1.20.2.jar",
+        "name": "fast-chest-1.6+1.20.2.jar",
+        "tag": "1.20.6"
+      },
+      {
+        "fileName": "forcecloseloadingscreen-2.2.3.jar",
+        "name": "forcecloseloadingscreen-2.2.3.jarr",
+        "tag": "1.20.6"
+      },
+      {
+        "fileName": "timechanger-1.3.1.jar",
+        "name": "timechanger-1.3.1.jarr",
+        "tag": "1.20.6"
+      },
+      {
+        "fileName": "modmenu-10.0.0.jar",
+        "name": "modmenu-10.0.0.jar",
+        "tag": "1.20.6"
+      }
+    ],
+    "1.21.1": [
+      {
+        "fileName": "autosprintfix-1.0.0.jar",
+        "name": "autosprintfix-1.0.0.jar",
+        "tag": "1.21.1"
+      },
+      {
+        "fileName": "IAS-Fabric-1.21.1-9.0.3-SNAPSHOT.jar",
+        "name": "IAS-Fabric-1.21.1-9.0.3-SNAPSHOT.jar",
+        "tag": "1.21.1"
+      },
+      {
+        "fileName": "interactic-0.2.3+1.21.jar",
+        "name": "interactic-0.2.3+1.21.jar",
+        "tag": "1.21.1"
+      },
+      {
+        "fileName": "IAS-Fabric-1.21.1-9.0.3-SNAPSHOT.jar",
+        "name": "IAS-Fabric-1.21.1-9.0.3-SNAPSHOT.jar",
+        "tag": "1.21.1"
+      },
+      {
+        "fileName": "customfov-fabric-9.0.0+1.21.jar",
+        "name": "customfov-fabric-9.0.0+1.21.jar",
+        "tag": "1.21.1"
+      },
+      {
+        "fileName": "microdurability-0.4.0.jar",
+        "name": "microdurability-0.4.0.jar",
+        "tag": "1.21.1"
+      },
+      {
+        "fileName": "OgulniegaMod-32.jar",
+        "name": "OgulniegaMod-32.jar",
+        "tag": "1.21.1"
+      },
+      {
+        "fileName": "perspektive-1.4.0b.jar",
+        "name": "perspektive-1.4.0b.jar",
+        "tag": "1.21.1"
+      },
+      {
+        "fileName": "rrls-5.0.8+mc1.21.1-fabric-a.jar",
+        "name": "rrls-5.0.8+mc1.21.1-fabric-a.jar",
+        "tag": "1.21.1"
+      }
+    ],
+    "1.21.3": [
+      {
+        "fileName": "autosprintfix-1.0.0.jar",
+        "name": "autosprintfix-1.0.0.jar",
+        "tag": "1.21.3"
+      },
+      {
+        "fileName": "IAS-Fabric-1.21.3-9.0.3-SNAPSHOT.jar",
+        "name": "IAS-Fabric-1.21.3-9.0.3-SNAPSHOT.jar",
+        "tag": "1.21.3"
+      },
+      {
+        "fileName": "microdurability-0.4.0.jar",
+        "name": "microdurability-0.4.0.jar",
+        "tag": "1.21.3"
+      },
+      {
+        "fileName": "OgulniegaMod-32.jar",
+        "name": "OgulniegaMod-32.jar",
+        "tag": "1.21.3"
+      },
+      {
+        "fileName": "perspektive-1.4.2.jar",
+        "name": "perspektive-1.4.2.jar",
+        "tag": "1.21.3"
+      }
+    ],
+    "1.21.4": [
+      {
+        "fileName": "autosprintfix-1.0.0.jar",
+        "name": "autosprintfix-1.0.0.jar",
+        "tag": "1.21.4"
+      },
+      {
+        "fileName": "IAS-Fabric-1.21.4-9.0.3-SNAPSHOT.jar",
+        "name": "IAS-Fabric-1.21.4-9.0.3-SNAPSHOT.jar",
+        "tag": "1.21.4"
+      },
+      {
+        "fileName": "microdurability-0.4.0.jar",
+        "name": "microdurability-0.4.0.jar",
+        "tag": "1.21.4"
+      },
+      {
+        "fileName": "OgulniegaMod-32.jar",
+        "name": "OgulniegaMod-32.jar",
+        "tag": "1.21.4"
+      },
+      {
+        "fileName": "memoryleakfix-fabric-1.17+-1.1.5.jar",
+        "name": "memoryleakfix-fabric-1.17+-1.1.5.jar",
+        "tag": "1.21.4"
+      },
+      {
+        "fileName": "timechanger-1.3.2.jar",
+        "name": "timechanger-1.3.2.jar",
+        "tag": "1.21.4"
+      },
+      {
+        "fileName": "ok_zoomer-fabric-12.0.0-beta.5.jar",
+        "name": "ok_zoomer-fabric-12.0.0-beta.5.jarr",
+        "tag": "1.21.4"
+      },
+      {
+        "fileName": "perspektive-1.4.2.jar",
+        "name": "perspektive-1.4.2.jar",
+        "tag": "1.21.4"
+      }
+    ],
+    "1.21.5": [
+      {
+        "fileName": "autosprintfix-1.0.0.jar",
+        "name": "autosprintfix-1.0.0.jar",
+        "tag": "1.21.5"
+      },
+      {
+        "fileName": "IAS-Fabric-1.21.5-9.0.3-SNAPSHOT.jar",
+        "name": "IAS-Fabric-1.21.5-9.0.3-SNAPSHOT.jar",
+        "tag": "1.21.5"
+      },
+      {
+        "fileName": "microdurability-0.4.0.jar",
+        "name": "microdurability-0.4.0.jar",
+        "tag": "1.21.5"
+      },
+      {
+        "fileName": "OgulniegaMod-32.jar",
+        "name": "OgulniegaMod-32.jar",
+        "tag": "1.21.5"
+      },
+      {
+        "fileName": "perspektive-1.4.2.jar",
+        "name": "perspektive-1.4.2.jar",
+        "tag": "1.21.5"
+      }
+    ],
+    "1.21.6": [
+      {
+        "fileName": "autosprintfix-1.0.0.jar",
+        "name": "autosprintfix-1.0.0.jar",
+        "tag": "1.21.6"
+      },
+      {
+        "fileName": "IAS-Fabric-1.21.6-9.0.3-SNAPSHOT.jar",
+        "name": "IAS-Fabric-1.21.6-9.0.3-SNAPSHOT.jar",
+        "tag": "1.21.6"
+      },
+      {
+        "fileName": "microdurability-0.4.0.jar",
+        "name": "microdurability-0.4.0.jar",
+        "tag": "1.21.6"
+      },
+      {
+        "fileName": "OgulniegaMod-32.jar",
+        "name": "OgulniegaMod-32.jar",
+        "tag": "1.21.6"
+      },
+      {
+        "fileName": "NoRefreshScroll-1.21.4-1.0.11.jar",
+        "name": "NoRefreshScroll-1.21.4-1.0.11.jar",
+        "tag": "1.21.6"
+      },
+      {
+        "fileName": "emoji-type-2.3.0-1.21.3-fabric.jar",
+        "name": "emoji-type-2.3.0-1.21.3-fabric.jar",
+        "tag": "1.21.6"
+      },
+      {
+        "fileName": "threadtweak-fabric-0.1.7+mc1.21.5.jar",
+        "name": "threadtweak-fabric-0.1.7+mc1.21.5.jar",
+        "tag": "1.21.6"
+      },
+      {
+        "fileName": "notenoughcrashes-fabric-4.4.8+1.21.5.jar",
+        "name": "notenoughcrashes-fabric-4.4.8+1.21.5.jar",
+        "tag": "1.21.6"
+      },
+      {
+        "fileName": "noisium-fabric-2.6.0+mc1.21.5.jar",
+        "name": "noisium-fabric-2.6.0+mc1.21.5.jar",
+        "tag": "1.21.6"
+      },
+      {
+        "fileName": "perspektive-1.4.2.jar",
+        "name": "perspektive-1.4.2.jar",
+        "tag": "1.21.6"
+      }
+    ],
+    "1.21.7": [
+      {
+        "fileName": "autosprintfix-1.0.0.jar",
+        "name": "autosprintfix-1.0.0.jar",
+        "tag": "1.21.7"
+      },
+      {
+        "fileName": "IAS-Fabric-1.21.5-9.0.3-SNAPSHOT.jar",
+        "name": "IAS-Fabric-1.21.7-9.0.3-SNAPSHOT.jar",
+        "tag": "1.21.7"
+      },
+      {
+        "fileName": "microdurability-0.4.0.jar",
+        "name": "microdurability-0.4.0.jar",
+        "tag": "1.21.7"
+      },
+      {
+        "fileName": "OgulniegaMod-32.jar",
+        "name": "OgulniegaMod-32.jar",
+        "tag": "1.21.7"
+      },
+      {
+        "fileName": "perspektive-1.4.2.jar",
+        "name": "perspektive-1.4.2.jar",
+        "tag": "1.21.7"
+      },
+      {
+        "fileName": "emoji-type-2.3.0-1.21.3-fabric.jar",
+        "name": "emoji-type-2.3.0-1.21.3-fabric.jar",
+        "tag": "1.21.7"
+      },
+      {
+        "fileName": "ForgeConfigAPIPort-v21.5.1-1.21.5-Fabric.jar",
+        "name": "ForgeConfigAPIPort-v21.5.1-1.21.5-Fabric.jar",
+        "tag": "1.21.7"
+      },
+      {
+        "fileName": "lithium-fabric-0.16.3+mc1.21.5.jar",
+        "name": "lithium-fabric-0.16.3+mc1.21.5.jar",
+        "tag": "1.21.7"
+      },
+            {
+        "fileName": "customfov-fabric-10.0.0+1.21.5.jar",
+        "name": "customfov-fabric-10.0.0+1.21.5.jar",
+        "tag": "1.21.7"
+      },
+            {
+        "fileName": "entityculling-fabric-1.8.0-mc1.21.6.jar",
+        "name": "entityculling-fabric-1.8.0-mc1.21.6.jar",
+        "tag": "1.21.7"
+      },
+            {
+        "fileName": "fastquit-3.1.1+mc1.21.6.jar",
+        "name": "fastquit-3.1.1+mc1.21.6.jar",
+        "tag": "1.21.7"
+      },
+            {
+        "fileName": "ferritecore-8.0.0-fabric.jar",
+        "name": "ferritecore-8.0.0-fabric.jar",
+        "tag": "1.21.7"
+      },
+            {
+        "fileName": "forcecloseloadingscreen-2.2.3.jar",
+        "name": "forcecloseloadingscreen-2.2.3.jar",
+        "tag": "1.21.7"
+      },
+            {
+        "fileName": "krypton-0.2.9.jar",
+        "name": "krypton-0.2.9.jar",
+        "tag": "1.21.7"
+      },
+            {
+        "fileName": "no-resource-pack-warnings-1.3.1.jar",
+        "name": "no-resource-pack-warnings-1.3.1.jar",
+        "tag": "1.21.7"
+      },
+            {
+        "fileName": "NoRefreshScroll-1.21.4-1.0.11.jar",
+        "name": "NoRefreshScroll-1.21.4-1.0.11.jar",
+        "tag": "1.21.7"
+      },
+            {
+        "fileName": "notenoughanimations-fabric-1.10.0-mc1.21.6.jar",
+        "name": "notenoughanimations-fabric-1.10.0-mc1.21.6.jar",
+        "tag": "1.21.7"
+      },
+            {
+        "fileName": "notenoughcrashes-fabric-4.4.8+1.21.5.jar",
+        "name": "notenoughcrashes-fabric-4.4.8+1.21.5.jar",
+        "tag": "1.21.7"
+      },
+      {
+        "fileName": "timechanger-1.3.2.jar",
+        "name": "timechanger-1.3.2.jar",
+        "tag": "1.21.7"
+      },
+      {
+        "fileName": "threadtweak-fabric-0.1.7+mc1.21.5.jar",
+        "name": "threadtweak-fabric-0.1.7+mc1.21.5.jar",
+        "tag": "1.21.7"
+      },
+      {
+        "fileName": "smoke-suppression-1.2.3+MC1.21.2-1.21.6.jar",
+        "name": "smoke-suppression-1.2.3+MC1.21.2-1.21.6.jar",
+        "tag": "1.21.7"
+      }
+    ]
+  }
+}

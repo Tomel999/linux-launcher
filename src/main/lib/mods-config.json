@@ -1,0 +1,3765 @@
+{
+  "comment": "Konfiguracja modów dla różnych wersji Minecraft. Każdy mod może mieć określone źródło (modrinth, github, direct) i konkretną wersję.",
+  "versions": {
+    "1.19.2": {
+      "mods": [
+        {
+          "name": "Architectury",
+          "source": "modrinth",
+          "id": "lhGA9TYQ",
+          "version": "v6.6.92",
+          "required": false,
+          "description": "Architectury from Modrinth"
+        },
+        {
+          "name": "BadOptimizations",
+          "source": "modrinth",
+          "id": "g96Z4WVZ",
+          "version": "2.1.4",
+          "required": false,
+          "description": "BadOptimizations from Modrinth"
+        },
+        {
+          "name": "Bobby",
+          "source": "modrinth",
+          "id": "M08ruV16",
+          "version": "4.0.1",
+          "required": false,
+          "description": "Bobby from Modrinth"
+        },
+        {
+          "name": "Borderless Mining",
+          "source": "modrinth",
+          "id": "kYq5qkSL",
+          "version": "1.1.5+1.19",
+          "required": false,
+          "description": "Borderless Mining from Modrinth"
+        },
+        {
+          "name": "brb",
+          "source": "modrinth",
+          "id": "vWIaVOTE",
+          "version": "1.6",
+          "required": false,
+          "description": "brb from Modrinth"
+        },
+        {
+          "name": "Clear Water",
+          "source": "modrinth",
+          "id": "485Cv9lY",
+          "version": "2.0",
+          "required": false,
+          "description": "Clear Water from Modrinth"
+        },
+        {
+          "name": "Cloth Config",
+          "source": "modrinth",
+          "id": "9s6osm5g",
+          "version": "v8.3.134",
+          "required": false,
+          "description": "Cloth Config from Modrinth"
+        },
+        {
+          "name": "cmdkeybind",
+          "source": "modrinth",
+          "id": "h3r1moh7",
+          "version": "1.6.0-1.19.x",
+          "required": false,
+          "description": "cmdkeybind from Modrinth"
+        },
+        {
+          "name": "Disable Insecure Chat Toast",
+          "source": "modrinth",
+          "id": "i090SePT",
+          "version": "1.1.0",
+          "required": false,
+          "description": "Disable Insecure Chat Toast from Modrinth"
+        },
+        {
+          "name": "Dynamic FPS",
+          "source": "modrinth",
+          "id": "LQ3K71Q1",
+          "version": "3.9.5",
+          "required": false,
+          "description": "Dynamic FPS from Modrinth"
+        },
+        {
+          "name": "Emoji Type",
+          "source": "modrinth",
+          "id": "q7vRRpxU",
+          "version": "2.0.1",
+          "required": false,
+          "description": "Emoji Type from Modrinth"
+        },
+        {
+          "name": "Entity Culling",
+          "source": "modrinth",
+          "id": "NNAgCjsB",
+          "version": "1.6.1-mc1.19.2",
+          "required": false,
+          "description": "Entity Culling from Modrinth"
+        },
+        {
+          "name": "Entity View Distance",
+          "source": "modrinth",
+          "id": "ihnBJ6on",
+          "version": "1.0.2+1.19",
+          "required": false,
+          "description": "Entity View Distance from Modrinth"
+        },
+        {
+          "name": "Fabric API",
+          "source": "modrinth",
+          "id": "P7dR8mSH",
+          "version": "0.76.1+1.19.2",
+          "required": false,
+          "description": "Fabric API from Modrinth"
+        },
+        {
+          "name": "Fabric Language Kotlin",
+          "source": "modrinth",
+          "id": "Ha28R6CL",
+          "version": "1.13.4+kotlin.2.2.0",
+          "required": false,
+          "description": "Fabric Language Kotlin from Modrinth"
+        },
+        {
+          "name": "Fast Chest",
+          "source": "modrinth",
+          "id": "WNcgffMw",
+          "version": "1.5+1.19",
+          "required": false,
+          "description": "Fast Chest from Modrinth"
+        },
+        {
+          "name": "FastQuit",
+          "source": "modrinth",
+          "id": "x1hIzbuY",
+          "version": "2.1.0+1.19-1.19.2",
+          "required": false,
+          "description": "FastQuit from Modrinth"
+        },
+        {
+          "name": "FerriteCore",
+          "source": "modrinth",
+          "id": "uXXizFIs",
+          "version": "5.0.3-fabric",
+          "required": false,
+          "description": "FerriteCore from Modrinth"
+        },
+        {
+          "name": "Interactic",
+          "source": "modrinth",
+          "id": "ErpAAAaf",
+          "version": "0.1.11+1.19",
+          "required": false,
+          "description": "Interactic from Modrinth"
+        },
+        {
+          "name": "Krypton",
+          "source": "modrinth",
+          "id": "fQEb0iXm",
+          "version": "0.2.1",
+          "required": false,
+          "description": "Krypton from Modrinth"
+        },
+        {
+          "name": "Ksyxis",
+          "source": "modrinth",
+          "id": "2ecVyZ49",
+          "version": "1.3.3",
+          "required": false,
+          "description": "Ksyxis from Modrinth"
+        },
+        {
+          "name": "LazyDFU",
+          "source": "modrinth",
+          "id": "hvFnDODi",
+          "version": "0.1.3",
+          "required": false,
+          "description": "LazyDFU from Modrinth"
+        },
+        {
+          "name": "Memory Leak Fix",
+          "source": "modrinth",
+          "id": "NRjRiSSD",
+          "version": "v1.1.5",
+          "required": false,
+          "description": "Memory Leak Fix from Modrinth"
+        },
+        {
+          "name": "Mod Menu",
+          "source": "modrinth",
+          "id": "mOgUt4GM",
+          "version": "4.2.0-beta.2",
+          "required": false,
+          "description": "Mod Menu from Modrinth"
+        },
+        {
+          "name": "ModernFix",
+          "source": "modrinth",
+          "id": "nmDcB62a",
+          "version": "5.18.1+mc1.19.2",
+          "required": false,
+          "description": "ModernFix from Modrinth"
+        },
+        {
+          "name": "More Chat History",
+          "source": "modrinth",
+          "id": "8qkXwOnk",
+          "version": "1.3.0",
+          "required": false,
+          "description": "More Chat History from Modrinth"
+        },
+        {
+          "name": "More Culling",
+          "source": "modrinth",
+          "id": "51shyZVL",
+          "version": "v0.17.0-1.19",
+          "required": false,
+          "description": "More Culling from Modrinth"
+        },
+        {
+          "name": "No Resource Pack Warnings",
+          "source": "modrinth",
+          "id": "6xKUDQcB",
+          "version": "1.1.1",
+          "required": false,
+          "description": "No Resource Pack Warnings from Modrinth"
+        },
+        {
+          "name": "No Tutorial Toasts",
+          "source": "modrinth",
+          "id": "mCNtqH4S",
+          "version": "1.0.0",
+          "required": false,
+          "description": "No Tutorial Toasts from Modrinth"
+        },
+        {
+          "name": "NoRefreshScroll",
+          "source": "modrinth",
+          "id": "bWkJ7ejc",
+          "version": "1.0.2",
+          "required": false,
+          "description": "NoRefreshScroll from Modrinth"
+        },
+        {
+          "name": "Not Enough Animations",
+          "source": "modrinth",
+          "id": "MPCX6s5C",
+          "version": "1.10.0",
+          "required": false,
+          "description": "Not Enough Animations from Modrinth"
+        },
+        {
+          "name": "Not Enough Crashes",
+          "source": "modrinth",
+          "id": "yM94ont6",
+          "version": "5.0.0+1.19.2-fabric",
+          "required": false,
+          "description": "Not Enough Crashes from Modrinth"
+        },
+        {
+          "name": "owo-lib",
+          "source": "modrinth",
+          "id": "ccKDOlHs",
+          "version": "0.9.3+1.19",
+          "required": false,
+          "description": "owo-lib from Modrinth"
+        },
+        {
+          "name": "Recipe Unlocker",
+          "source": "modrinth",
+          "id": "J1nJ0y6I",
+          "version": "1.1",
+          "required": false,
+          "description": "Recipe Unlocker from Modrinth"
+        },
+        {
+          "name": "ReplayMod",
+          "source": "modrinth",
+          "id": "Nv2fQJo5",
+          "version": "1.19.2-2.6.20",
+          "required": false,
+          "description": "ReplayMod from Modrinth"
+        },
+        {
+          "name": "Resourceful Config",
+          "source": "modrinth",
+          "id": "M1953qlQ",
+          "version": "1.0.20",
+          "required": false,
+          "description": "Resourceful Config from Modrinth"
+        },
+        {
+          "name": "Server Pinger Fixer",
+          "source": "modrinth",
+          "id": "iqK5uv72",
+          "version": "1.0.4",
+          "required": false,
+          "description": "Server Pinger Fixer from Modrinth"
+        },
+        {
+          "name": "Shulker Box Tooltip",
+          "source": "modrinth",
+          "id": "2M01OLQq",
+          "version": "3.2.2+1.19.2-fabric",
+          "required": false,
+          "description": "Shulker Box Tooltip from Modrinth"
+        },
+        {
+          "name": "smallpop",
+          "source": "modrinth",
+          "id": "1cfO6J6t",
+          "version": "0.2",
+          "required": false,
+          "description": "smallpop from Modrinth"
+        },
+        {
+          "name": "Smoke Suppression",
+          "source": "modrinth",
+          "id": "nKcekY2P",
+          "version": "1.0.13+MC1.19-1.19.2",
+          "required": false,
+          "description": "Smoke Suppression from Modrinth"
+        },
+        {
+          "name": "Smooth Boot",
+          "source": "modrinth",
+          "id": "FWumhS4T",
+          "version": "1.19-1.7.1",
+          "required": false,
+          "description": "Smooth Boot from Modrinth"
+        },
+        {
+          "name": "Smooth Swapping",
+          "source": "modrinth",
+          "id": "ydZic5r4",
+          "version": "0.9.2-1.19.2",
+          "required": false,
+          "description": "Smooth Swapping from Modrinth"
+        },
+        {
+          "name": "Starlight",
+          "source": "modrinth",
+          "id": "H8CaAYZC",
+          "version": "1.1.1+1.19",
+          "required": false,
+          "description": "Starlight from Modrinth"
+        },
+        {
+          "name": "Status Effect Timer",
+          "source": "modrinth",
+          "id": "T9FDHbY5",
+          "version": "1.2.0+1.19",
+          "required": false,
+          "description": "Status Effect Timer from Modrinth"
+        },
+        {
+          "name": "TieFix",
+          "source": "modrinth",
+          "id": "jxuxsA0D",
+          "version": "1.11.0",
+          "required": false,
+          "description": "TieFix from Modrinth"
+        },
+        {
+          "name": "Time Changer",
+          "source": "modrinth",
+          "id": "1itdse3V",
+          "version": "1.2.0",
+          "required": false,
+          "description": "Time Changer from Modrinth"
+        },
+        {
+          "name": "Vectorientation",
+          "source": "modrinth",
+          "id": "NpPKJQg6",
+          "version": "1.0.1a",
+          "required": false,
+          "description": "Vectorientation from Modrinth"
+        }
+      ]
+    },
+    "1.20.1": {
+      "mods": [
+        {
+          "name": "Architectury",
+          "source": "modrinth",
+          "id": "lhGA9TYQ",
+          "version": "9.2.14",
+          "required": false,
+          "description": "Architectury from Modrinth"
+        },
+        {
+          "name": "Auto Sprint Fix",
+          "source": "modrinth",
+          "id": "E9SxgOCE",
+          "version": "1.0.0",
+          "required": false,
+          "description": "Auto Sprint Fix from Modrinth"
+        },
+        {
+          "name": "BadOptimizations",
+          "source": "modrinth",
+          "id": "g96Z4WVZ",
+          "version": "2.2.3",
+          "required": false,
+          "description": "BadOptimizations from Modrinth"
+        },
+        {
+          "name": "Bobby",
+          "source": "modrinth",
+          "id": "M08ruV16",
+          "version": "5.0.1",
+          "required": false,
+          "description": "Bobby from Modrinth"
+        },
+        {
+          "name": "Borderless Mining",
+          "source": "modrinth",
+          "id": "kYq5qkSL",
+          "version": "1.1.8+1.20.1",
+          "required": false,
+          "description": "Borderless Mining from Modrinth"
+        },
+        {
+          "name": "brb",
+          "source": "modrinth",
+          "id": "vWIaVOTE",
+          "version": "1.10.0-rc5+1.20.0-1",
+          "required": false,
+          "description": "brb from Modrinth"
+        },
+        {
+          "name": "CIT Resewn",
+          "source": "modrinth",
+          "id": "otVJckYQ",
+          "version": "1.2.2+1.20.1",
+          "required": false,
+          "description": "CIT Resewn from Modrinth"
+        },
+        {
+          "name": "Clear Water",
+          "source": "modrinth",
+          "id": "485Cv9lY",
+          "version": "2.1",
+          "required": false,
+          "description": "Clear Water from Modrinth"
+        },
+        {
+          "name": "Cloth Config",
+          "source": "modrinth",
+          "id": "9s6osm5g",
+          "version": "v11.1.136",
+          "required": false,
+          "description": "Cloth Config from Modrinth"
+        },
+        {
+          "name": "commandkeys",
+          "source": "modrinth",
+          "id": "h3r1moh7",
+          "version": "2.3.10+1.20.1",
+          "required": false,
+          "description": "commandkeys from Modrinth"
+        },
+        {
+          "name": "Custom FOV",
+          "source": "modrinth",
+          "id": "uZAcFHLd",
+          "version": "6.2.1+1.20.1",
+          "required": false,
+          "description": "Custom FOV from Modrinth"
+        },
+        {
+          "name": "Debugify",
+          "source": "modrinth",
+          "id": "QwxR6Gcd",
+          "version": "1.20.1+2.0",
+          "required": false,
+          "description": "Debugify from Modrinth"
+        },
+        {
+          "name": "Dynamic FPS",
+          "source": "modrinth",
+          "id": "LQ3K71Q1",
+          "version": "3.9.5",
+          "required": false,
+          "description": "Dynamic FPS from Modrinth"
+        },
+        {
+          "name": "Emoji Type",
+          "source": "modrinth",
+          "id": "q7vRRpxU",
+          "version": "2.2.3+1.20.4",
+          "required": false,
+          "description": "Emoji Type from Modrinth"
+        },
+        {
+          "name": "Entity Culling",
+          "source": "modrinth",
+          "id": "NNAgCjsB",
+          "version": "1.8.0",
+          "required": false,
+          "description": "Entity Culling from Modrinth"
+        },
+        {
+          "name": "Entity Texture Features",
+          "source": "modrinth",
+          "id": "BVzZfTc1",
+          "version": " 6.2.9",
+          "required": false,
+          "description": "Entity Texture Features from Modrinth"
+        },
+        {
+          "name": "Entity View Distance",
+          "source": "modrinth",
+          "id": "ihnBJ6on",
+          "version": "1.1.2+1.20",
+          "required": false,
+          "description": "Entity View Distance from Modrinth"
+        },
+        {
+          "name": "Fabric API",
+          "source": "modrinth",
+          "id": "P7dR8mSH",
+          "version": "0.92.6+1.20.1",
+          "required": false,
+          "description": "Fabric API from Modrinth"
+        },
+        {
+          "name": "Fabric Language Kotlin",
+          "source": "modrinth",
+          "id": "Ha28R6CL",
+          "version": "1.13.4+kotlin.2.2.0",
+          "required": false,
+          "description": "Fabric Language Kotlin from Modrinth"
+        },
+        {
+          "name": "FabricSkyboxes",
+          "source": "modrinth",
+          "id": "YBz7DOs8",
+          "version": "mc1.20.1-0.7.3",
+          "required": false,
+          "description": "FabricSkyboxes from Modrinth"
+        },
+        {
+          "name": "Fadeless",
+          "source": "modrinth",
+          "id": "ncKjyGm3",
+          "version": "1.0.1",
+          "required": false,
+          "description": "Fadeless from Modrinth"
+        },
+        {
+          "name": "Fast Chest",
+          "source": "modrinth",
+          "id": "WNcgffMw",
+          "version": "1.5+1.20",
+          "required": false,
+          "description": "Fast Chest from Modrinth"
+        },
+        {
+          "name": "FastQuit",
+          "source": "modrinth",
+          "id": "x1hIzbuY",
+          "version": "3.0.0+1.20+",
+          "required": false,
+          "description": "FastQuit from Modrinth"
+        },
+        {
+          "name": "FerriteCore",
+          "source": "modrinth",
+          "id": "uXXizFIs",
+          "version": "6.0.1",
+          "required": false,
+          "description": "FerriteCore from Modrinth"
+        },
+        {
+          "name": "fsb-interop",
+          "source": "modrinth",
+          "id": "HpdHOPOp",
+          "version": "mc1.20.1-1.3.6",
+          "required": false,
+          "description": "fsb-interop from Modrinth"
+        },
+        {
+          "name": "Fzzy Config",
+          "source": "modrinth",
+          "id": "hYykXjDp",
+          "version": "0.7.0+1.20.1",
+          "required": false,
+          "description": "Fzzy Config from Modrinth"
+        },
+        {
+          "name": "ImmediatelyFast",
+          "source": "modrinth",
+          "id": "5ZwdcRci",
+          "version": "1.5.0+1.20.4-fabric",
+          "required": false,
+          "description": "ImmediatelyFast from Modrinth"
+        },
+        {
+          "name": "Indium",
+          "source": "modrinth",
+          "id": "Orvt0mRa",
+          "version": "1.0.36+mc1.20.1",
+          "required": false,
+          "description": "Indium from Modrinth"
+        },
+        {
+          "name": "Interactic",
+          "source": "modrinth",
+          "id": "ErpAAAaf",
+          "version": "0.2.0+1.20",
+          "required": false,
+          "description": "Interactic from Modrinth"
+        },
+        {
+          "name": "Krypton",
+          "source": "modrinth",
+          "id": "fQEb0iXm",
+          "version": "0.2.3",
+          "required": false,
+          "description": "Krypton from Modrinth"
+        },
+        {
+          "name": "Ksyxis",
+          "source": "modrinth",
+          "id": "2ecVyZ49",
+          "version": "1.3.3",
+          "required": false,
+          "description": "Ksyxis from Modrinth"
+        },
+        {
+          "name": "Language Reload",
+          "source": "modrinth",
+          "id": "uLbm7CG6",
+          "version": "1.7.4+1.20.1",
+          "required": false,
+          "description": "Language Reload from Modrinth"
+        },
+        {
+          "name": "LazyDFU",
+          "source": "modrinth",
+          "id": "hvFnDODi",
+          "version": "0.1.3",
+          "required": false,
+          "description": "LazyDFU from Modrinth"
+        },
+        {
+          "name": "Lithium",
+          "source": "modrinth",
+          "id": "gvQqBUqZ",
+          "version": "mc1.20.1-0.11.3-fabric",
+          "required": false,
+          "description": "Lithium from Modrinth"
+        },
+        {
+          "name": "Memory Leak Fix",
+          "source": "modrinth",
+          "id": "NRjRiSSD",
+          "version": "v1.1.5",
+          "required": false,
+          "description": "Memory Leak Fix from Modrinth"
+        },
+        {
+          "name": "Mod Menu",
+          "source": "modrinth",
+          "id": "mOgUt4GM",
+          "version": "7.2.2",
+          "required": false,
+          "description": "Mod Menu from Modrinth"
+        },
+        {
+          "name": "ModernFix",
+          "source": "modrinth",
+          "id": "nmDcB62a",
+          "version": "5.23.1+mc1.20.1",
+          "required": false,
+          "description": "ModernFix from Modrinth"
+        },
+        {
+          "name": "More Culling",
+          "source": "modrinth",
+          "id": "51shyZVL",
+          "version": "0.24.0",
+          "required": false,
+          "description": "More Culling from Modrinth"
+        },
+        {
+          "name": "No Resource Pack Warnings",
+          "source": "modrinth",
+          "id": "6xKUDQcB",
+          "version": "1.3.1",
+          "required": false,
+          "description": "No Resource Pack Warnings from Modrinth"
+        },
+        {
+          "name": "Noisium",
+          "source": "modrinth",
+          "id": "KuNKN7d2",
+          "version": "2.3.0+mc1.20-1.20.1",
+          "required": false,
+          "description": "Noisium from Modrinth"
+        },
+        {
+          "name": "NoRefreshScroll",
+          "source": "modrinth",
+          "id": "bWkJ7ejc",
+          "version": "1.0.5",
+          "required": false,
+          "description": "NoRefreshScroll from Modrinth"
+        },
+        {
+          "name": "Not Enough Animations",
+          "source": "modrinth",
+          "id": "MPCX6s5C",
+          "version": "1.10.0",
+          "required": false,
+          "description": "Not Enough Animations from Modrinth"
+        },
+        {
+          "name": "Not Enough Crashes",
+          "source": "modrinth",
+          "id": "yM94ont6",
+          "version": "4.4.9+1.20.1-fabric",
+          "required": false,
+          "description": "Not Enough Crashes from Modrinth"
+        },
+        {
+          "name": "owo-lib",
+          "source": "modrinth",
+          "id": "ccKDOlHs",
+          "version": "0.11.2+1.20",
+          "required": false,
+          "description": "owo-lib from Modrinth"
+        },
+        {
+          "name": "Particle Core",
+          "source": "modrinth",
+          "id": "RSeLon5O",
+          "version": "0.2.6+1.20.1",
+          "required": false,
+          "description": "Particle Core from Modrinth"
+        },
+        {
+          "name": "Recipe Unlocker",
+          "source": "modrinth",
+          "id": "J1nJ0y6I",
+          "version": "1.0.1",
+          "required": false,
+          "description": "Recipe Unlocker from Modrinth"
+        },
+        {
+          "name": "Reeses Sodium Options",
+          "source": "modrinth",
+          "id": "Bh37bMuy",
+          "version": "mc1.20.1-1.7.2",
+          "required": false,
+          "description": "Reeses Sodium Options from Modrinth"
+        },
+        {
+          "name": "ReplayMod",
+          "source": "modrinth",
+          "id": "Nv2fQJo5",
+          "version": "1.20.1-2.6.15",
+          "required": false,
+          "description": "ReplayMod from Modrinth"
+        },
+        {
+          "name": "Resourceful Config",
+          "source": "modrinth",
+          "id": "M1953qlQ",
+          "version": "2.1.3",
+          "required": false,
+          "description": "Resourceful Config from Modrinth"
+        },
+        {
+          "name": "Server Pinger Fixer",
+          "source": "modrinth",
+          "id": "iqK5uv72",
+          "version": "1.0.4",
+          "required": false,
+          "description": "Server Pinger Fixer from Modrinth"
+        },
+        {
+          "name": "Shulker Box Tooltip",
+          "source": "modrinth",
+          "id": "2M01OLQq",
+          "version": "4.0.4+1.20.1-fabric",
+          "required": false,
+          "description": "Shulker Box Tooltip from Modrinth"
+        },
+        {
+          "name": "smallpop",
+          "source": "modrinth",
+          "id": "1cfO6J6t",
+          "version": "0.4",
+          "required": false,
+          "description": "smallpop from Modrinth"
+        },
+        {
+          "name": "Smoke Suppression",
+          "source": "modrinth",
+          "id": "nKcekY2P",
+          "version": "1.0.16+MC1.20-1.20.1",
+          "required": false,
+          "description": "Smoke Suppression from Modrinth"
+        },
+        {
+          "name": "Smooth Scrolling Refurbished",
+          "source": "modrinth",
+          "id": "trr0scVt",
+          "version": "1.1.2",
+          "required": false,
+          "description": "Smooth Scrolling Refurbished from Modrinth"
+        },
+        {
+          "name": "Smooth Swapping",
+          "source": "modrinth",
+          "id": "ydZic5r4",
+          "version": "0.9.3.1-1.20.2",
+          "required": false,
+          "description": "Smooth Swapping from Modrinth"
+        },
+        {
+          "name": "Sodium",
+          "source": "modrinth",
+          "id": "AANobbMI",
+          "version": "mc1.20.1-0.5.11",
+          "required": false,
+          "description": "Sodium from Modrinth"
+        },
+        {
+          "name": "Sodium Extra",
+          "source": "modrinth",
+          "id": "PtjYWJkn",
+          "version": "mc1.20.1-0.5.9",
+          "required": false,
+          "description": "Sodium Extra from Modrinth"
+        },
+        {
+          "name": "Starlight",
+          "source": "modrinth",
+          "id": "H8CaAYZC",
+          "version": "1.1.2+1.20",
+          "required": false,
+          "description": "Starlight from Modrinth"
+        },
+        {
+          "name": "Status Effect Timer",
+          "source": "modrinth",
+          "id": "T9FDHbY5",
+          "version": "1.2.0+1.20",
+          "required": false,
+          "description": "Status Effect Timer from Modrinth"
+        },
+        {
+          "name": "ThreadTweak",
+          "source": "modrinth",
+          "id": "vSEH1ERy",
+          "version": "0.1.1+mc1.20.2",
+          "required": false,
+          "description": "ThreadTweak from Modrinth"
+        },
+        {
+          "name": "TieFix",
+          "source": "modrinth",
+          "id": "jxuxsA0D",
+          "version": "1.14.0",
+          "required": false,
+          "description": "TieFix from Modrinth"
+        },
+        {
+          "name": "Time Changer",
+          "source": "modrinth",
+          "id": "1itdse3V",
+          "version": "1.3.0",
+          "required": false,
+          "description": "Time Changer from Modrinth"
+        },
+        {
+          "name": "VanillaIcecreamFix",
+          "source": "modrinth",
+          "id": "5HUqEye3",
+          "version": "1.1.10-beta",
+          "required": false,
+          "description": "VanillaIcecreamFix from Modrinth"
+        },
+        {
+          "name": "Vectorientation",
+          "source": "modrinth",
+          "id": "NpPKJQg6",
+          "version": "1.1",
+          "required": false,
+          "description": "Vectorientation from Modrinth"
+        },
+        {
+          "name": "ViaFabricPlus",
+          "source": "modrinth",
+          "id": "rIC2XJV4",
+          "version": "0.0.1",
+          "required": false,
+          "description": "ViaFabricPlus from Modrinth"
+        },
+        {
+          "name": "Yet Another Config Lib",
+          "source": "modrinth",
+          "id": "1eAoo2KR",
+          "version": "3.6.6+1.20.1-fabric",
+          "required": false,
+          "description": "Yet Another Config Lib from Modrinth"
+        },
+        {
+          "name": "Zoomify",
+          "source": "modrinth",
+          "id": "w7ThoJFB",
+          "version": "2.14.2+1.20.1",
+          "required": false,
+          "description": "Zoomify from Modrinth"
+        }
+      ]
+    },
+"1.20.6": {
+      "mods": [
+        {
+          "name": "Architectury",
+          "source": "modrinth",
+          "id": "lhGA9TYQ",
+          "version": "12.1.4+fabric",
+          "required": false,
+          "description": "Architectury from Modrinth"
+        },
+        {
+          "name": "Auto Sprint Fix",
+          "source": "modrinth",
+          "id": "E9SxgOCE",
+          "version": "1.0.0",
+          "required": false,
+          "description": "Auto Sprint Fix from Modrinth"
+        },
+        {
+          "name": "BadOptimizations",
+          "source": "modrinth",
+          "id": "g96Z4WVZ",
+          "version": "2.2.3",
+          "required": false,
+          "description": "BadOptimizations from Modrinth"
+        },
+        {
+          "name": "BetterGrassify",
+          "source": "modrinth",
+          "id": "m5T5xmUy",
+          "version": "1.4.4+fabric.1.20.6",
+          "required": false,
+          "description": "BetterGrassify from Modrinth"
+        },
+        {
+          "name": "c2me",
+          "source": "modrinth",
+          "id": "VSNURh3q",
+          "version": "0.2.0+alpha.11.100+1.20.6",
+          "required": false,
+          "description": "c2me from Modrinth"
+        },
+        {
+          "name": "Cloth Config",
+          "source": "modrinth",
+          "id": "9s6osm5g",
+          "version": "14.0.139+fabric",
+          "required": false,
+          "description": "Cloth Config from Modrinth"
+        },
+        {
+          "name": "commandkeys",
+          "source": "modrinth",
+          "id": "65UyswbY",
+          "version": "1.2.0",
+          "required": false,
+          "description": "commandkeys from Modrinth"
+        },
+        {
+          "name": "Custom FOV",
+          "source": "modrinth",
+          "id": "uZAcFHLd",
+          "version": "8.0.0+1.20.6",
+          "required": false,
+          "description": "Custom FOV from Modrinth"
+        },
+        {
+          "name": "Debugify",
+          "source": "modrinth",
+          "id": "QwxR6Gcd",
+          "version": "1.20.6+1.0",
+          "required": false,
+          "description": "Debugify from Modrinth"
+        },
+        {
+          "name": "Dynamic FPS",
+          "source": "modrinth",
+          "id": "LQ3K71Q1",
+          "version": "3.9.5",
+          "required": false,
+          "description": "Dynamic FPS from Modrinth"
+        },
+        {
+          "name": "Emoji Type",
+          "source": "modrinth",
+          "id": "q7vRRpxU",
+          "version": "2.2.4+1.20.6",
+          "required": false,
+          "description": "Emoji Type from Modrinth"
+        },
+        {
+          "name": "Enhanced Block Entities",
+          "source": "modrinth",
+          "id": "OVuFYfre",
+          "version": "0.10.1+1.20.6",
+          "required": false,
+          "description": "Enhanced Block Entities from Modrinth"
+        },
+        {
+          "name": "Entity Culling",
+          "source": "modrinth",
+          "id": "NNAgCjsB",
+          "version": "1.8.0",
+          "required": false,
+          "description": "Entity Culling from Modrinth"
+        },
+        {
+          "name": "Entity Texture Features",
+          "source": "modrinth",
+          "id": "BVzZfTc1",
+          "version": "6.2.9",
+          "required": false,
+          "description": "Entity Texture Features from Modrinth"
+        },
+        {
+          "name": "Exordium",
+          "source": "modrinth",
+          "id": "DynYZEae",
+          "version": "1.4.1",
+          "required": false,
+          "description": "Exordium from Modrinth"
+        },
+        {
+          "name": "Fabric API",
+          "source": "modrinth",
+          "id": "P7dR8mSH",
+          "version": "0.100.8+1.20.6",
+          "required": false,
+          "description": "Fabric API from Modrinth"
+        },
+        {
+          "name": "Fabric Language Kotlin",
+          "source": "modrinth",
+          "id": "Ha28R6CL",
+          "version": "1.13.4+kotlin.2.2.0",
+          "required": false,
+          "description": "Fabric Language Kotlin from Modrinth"
+        },
+        {
+          "name": "FabricSkyboxes",
+          "source": "modrinth",
+          "id": "YBz7DOs8",
+          "version": "mc1.20.5-0.7.4",
+          "required": false,
+          "description": "FabricSkyboxes from Modrinth"
+        },
+        {
+          "name": "fsb-interop",
+          "source": "modrinth",
+          "id": "HpdHOPOp",
+          "version": "mc1.20.5-1.4.0",
+          "required": false,
+          "description": "FabricSkyBoxes Interop from Modrinth"
+        },
+        {
+          "name": "FastQuit",
+          "source": "modrinth",
+          "id": "x1hIzbuY",
+          "version": "3.0.0+1.20.6",
+          "required": false,
+          "description": "FastQuit from Modrinth"
+        },
+        {
+          "name": "FerriteCore",
+          "source": "modrinth",
+          "id": "uXXizFIs",
+          "version": "6.1.1-fabric",
+          "required": false,
+          "description": "FerriteCore from Modrinth"
+        },
+        {
+          "name": "Fzzy Config",
+          "source": "modrinth",
+          "id": "hYykXjDp",
+          "version": "0.5.9+1.20.6",
+          "required": false,
+          "description": "Fzzy Config from Modrinth"
+        },
+        {
+          "name": "ImmediatelyFast",
+          "source": "modrinth",
+          "id": "5ZwdcRci",
+          "version": "1.3.0+1.20.6-fabric",
+          "required": false,
+          "description": "ImmediatelyFast from Modrinth"
+        },
+        {
+          "name": "Indium",
+          "source": "modrinth",
+          "id": "Orvt0mRa",
+          "version": "1.0.36+mc1.20.1",
+          "required": false,
+          "description": "Indium from Modrinth"
+        },
+        {
+          "name": "Krypton",
+          "source": "modrinth",
+          "id": "fQEb0iXm",
+          "version": "0.2.7",
+          "required": false,
+          "description": "Krypton from Modrinth"
+        },
+        {
+          "name": "Ksyxis",
+          "source": "modrinth",
+          "id": "2ecVyZ49",
+          "version": "1.3.3",
+          "required": false,
+          "description": "Ksyxis from Modrinth"
+        },
+        {
+          "name": "Language Reload",
+          "source": "modrinth",
+          "id": "uLbm7CG6",
+          "version": "1.7.4+1.20.6",
+          "required": false,
+          "description": "Language Reload from Modrinth"
+        },
+        {
+          "name": "LazyDFU",
+          "source": "modrinth",
+          "id": "hvFnDODi",
+          "version": "0.1.3",
+          "required": false,
+          "description": "LazyDFU from Modrinth"
+        },
+        {
+          "name": "Lithium",
+          "source": "modrinth",
+          "id": "gvQqBUqZ",
+          "version": "mc1.20.6-0.12.5",
+          "required": false,
+          "description": "Lithium from Modrinth"
+        },
+        {
+          "name": "ModernFix",
+          "source": "modrinth",
+          "id": "nmDcB62a",
+          "version": "5.18.0+mc1.20.6",
+          "required": false,
+          "description": "ModernFix from Modrinth"
+        },
+        {
+          "name": "No Resource Pack Warnings",
+          "source": "modrinth",
+          "id": "6xKUDQcB",
+          "version": "1.3.1",
+          "required": false,
+          "description": "No Resource Pack Warnings from Modrinth"
+        },
+        {
+          "name": "Noisium",
+          "source": "modrinth",
+          "id": "KuNKN7d2",
+          "version": "2.3.0+mc1.20.5-1.20.6",
+          "required": false,
+          "description": "Noisium from Modrinth"
+        },
+        {
+          "name": "NoRefreshScroll",
+          "source": "modrinth",
+          "id": "bWkJ7ejc",
+          "version": "1.0.8",
+          "required": false,
+          "description": "NoRefreshScroll from Modrinth"
+        },
+        {
+          "name": "Not Enough Animations",
+          "source": "modrinth",
+          "id": "MPCX6s5C",
+          "version": "1.10.0",
+          "required": false,
+          "description": "Not Enough Animations from Modrinth"
+        },
+        {
+          "name": "Not Enough Crashes",
+          "source": "modrinth",
+          "id": "yM94ont6",
+          "version": "4.4.7+1.20.6-fabric",
+          "required": false,
+          "description": "Not Enough Crashes from Modrinth"
+        },
+        {
+          "name": "Ok Zoomer",
+          "source": "modrinth",
+          "id": "aXf2OSFU",
+          "version": "8.0.1+Fabric",
+          "required": false,
+          "description": "Ok Zoomer from Modrinth"
+        },
+        {
+          "name": "owo-lib",
+          "source": "modrinth",
+          "id": "ccKDOlHs",
+          "version": "0.12.9+1.20.5",
+          "required": false,
+          "description": "owo-lib from Modrinth"
+        },
+        {
+          "name": "Particle Core",
+          "source": "modrinth",
+          "id": "RSeLon5O",
+          "version": "0.2.5+1.20.6",
+          "required": false,
+          "description": "Particle Core from Modrinth"
+        },
+        {
+          "name": "Recipe Unlocker",
+          "source": "modrinth",
+          "id": "J1nJ0y6I",
+          "version": "1.1",
+          "required": false,
+          "description": "Recipe Unlocker from Modrinth"
+        },
+        {
+          "name": "Reeses Sodium Options",
+          "source": "modrinth",
+          "id": "Bh37bMuy",
+          "version": "mc1.20.6-1.7.3",
+          "required": false,
+          "description": "Reeses Sodium Options from Modrinth"
+        },
+        {
+          "name": "ReplayMod",
+          "source": "modrinth",
+          "id": "Nv2fQJo5",
+          "version": "1.20.6-2.6.20",
+          "required": false,
+          "description": "ReplayMod from Modrinth"
+        },
+        {
+          "name": "Resourceful Config",
+          "source": "modrinth",
+          "id": "M1953qlQ",
+          "version": "2.5.1",
+          "required": false,
+          "description": "Resourceful Config from Modrinth"
+        },
+        {
+          "name": "Server Pinger Fixer",
+          "source": "modrinth",
+          "id": "iqK5uv72",
+          "version": "1.0.5",
+          "required": false,
+          "description": "Server Pinger Fixer from Modrinth"
+        },
+        {
+          "name": "Shulker Box Tooltip",
+          "source": "modrinth",
+          "id": "2M01OLQq",
+          "version": "4.2.1+1.20.6-fabric",
+          "required": false,
+          "description": "Shulker Box Tooltip from Modrinth"
+        },
+        {
+          "name": "smallpop",
+          "source": "modrinth",
+          "id": "1cfO6J6t",
+          "version": "0.4",
+          "required": false,
+          "description": "smallpop from Modrinth"
+        },
+        {
+          "name": "Smoke Suppression",
+          "source": "modrinth",
+          "id": "nKcekY2P",
+          "version": "1.0.20+MC1.20.2-1.20.6",
+          "required": false,
+          "description": "Smoke Suppression from Modrinth"
+        },
+        {
+          "name": "Smooth Scrolling Refurbished",
+          "source": "modrinth",
+          "id": "trr0scVt",
+          "version": "1.1.3",
+          "required": false,
+          "description": "Smooth Scrolling Refurbished from Modrinth"
+        },
+        {
+          "name": "Sodium",
+          "source": "modrinth",
+          "id": "AANobbMI",
+          "version": "mc1.20.6-0.5.11",
+          "required": false,
+          "description": "Sodium from Modrinth"
+        },
+        {
+          "name": "Sodium Extra",
+          "source": "modrinth",
+          "id": "PtjYWJkn",
+          "version": "mc1.20.6-0.5.6",
+          "required": false,
+          "description": "Sodium Extra from Modrinth"
+        },
+        {
+          "name": "Status Effect Timer",
+          "source": "modrinth",
+          "id": "T9FDHbY5",
+          "version": "1.2.0+1.20.5",
+          "required": false,
+          "description": "Status Effect Timer from Modrinth"
+        },
+        {
+          "name": "ThreadTweak",
+          "source": "modrinth",
+          "id": "vSEH1ERy",
+          "version": "0.1.3+mc1.20.6",
+          "required": false,
+          "description": "ThreadTweak from Modrinth"
+        },
+        {
+          "name": "Vectorientation",
+          "source": "modrinth",
+          "id": "NpPKJQg6",
+          "version": "1.1",
+          "required": false,
+          "description": "Vectorientation from Modrinth"
+        },
+        {
+          "name": "ViaFabricPlus",
+          "source": "modrinth",
+          "id": "rIC2XJV4",
+          "version": "3.3.2",
+          "required": false,
+          "description": "ViaFabricPlus from Modrinth"
+        },
+        {
+          "name": "Yet Another Config Lib",
+          "source": "modrinth",
+          "id": "1eAoo2KR",
+          "version": "3.6.6+1.20.6-fabric",
+          "required": false,
+          "description": "Yet Another Config Lib from Modrinth"
+        }
+      ]
+    },
+    "1.21.1": {
+      "mods": [
+        {
+          "name": "Architectury",
+          "source": "modrinth",
+          "id": "lhGA9TYQ",
+          "version": "13.0.8+fabric",
+          "required": false,
+          "description": "Architectury API from Modrinth"
+        },
+        {
+          "name": "BadOptimizations",
+          "source": "modrinth",
+          "id": "g96Z4WVZ",
+          "version": "2.2.3",
+          "required": false,
+          "description": "BadOptimizations from Modrinth"
+        },
+        {
+          "name": "brb",
+          "source": "modrinth",
+          "id": "vWIaVOTE",
+          "version": "1.10.0-rc5+1.21",
+          "required": false,
+          "description": "Better Recipe Book from Modrinth"
+        },
+        {
+          "name": "BetterGrassify",
+          "source": "modrinth",
+          "id": "m5T5xmUy",
+          "version": "1.7.0+fabric.1.21.1",
+          "required": false,
+          "description": "BetterGrassify from Modrinth"
+        },
+        {
+          "name": "Bobby",
+          "source": "modrinth",
+          "id": "M08ruV16",
+          "version": "5.2.4+mc1.21",
+          "required": false,
+          "description": "Bobby from Modrinth"
+        },
+        {
+          "name": "Borderless Fullscreen",
+          "source": "modrinth",
+          "id": "UIexcMP1",
+          "version": "2.2.1",
+          "required": false,
+          "description": "Borderless Fullscreen from Modrinth"
+        },
+        {
+          "name": "CIT Resewn",
+          "source": "modrinth",
+          "id": "otVJckYQ",
+          "version": "1.2.2+1.21",
+          "required": false,
+          "description": "CIT Resewn from Modrinth"
+        },
+        {
+          "name": "Clear Water",
+          "source": "modrinth",
+          "id": "485Cv9lY",
+          "version": "3.0.1",
+          "required": false,
+          "description": "Clear Water from Modrinth"
+        },
+        {
+          "name": "Cloth Config",
+          "source": "modrinth",
+          "id": "9s6osm5g",
+          "version": "15.0.140+fabric",
+          "required": false,
+          "description": "Cloth Config from Modrinth"
+        },
+        {
+          "name": "commandkey",
+          "source": "modrinth",
+          "id": "65UyswbY",
+          "version": "2.3.10+1.21",
+          "required": false,
+          "description": "commandkeys from Modrinth"
+        },
+        {
+          "name": "Custom FOV",
+          "source": "modrinth",
+          "id": "uZAcFHLd",
+          "version": "9.0.0+1.21",
+          "required": false,
+          "description": "Custom FOV from Modrinth"
+        },
+        {
+          "name": "Debugify",
+          "source": "modrinth",
+          "id": "QwxR6Gcd",
+          "version": "1.21.1+1.0",
+          "required": false,
+          "description": "Debugify from Modrinth"
+        },
+        {
+          "name": "Dynamic FPS",
+          "source": "modrinth",
+          "id": "LQ3K71Q1",
+          "version": "3.9.5",
+          "required": false,
+          "description": "Dynamic FPS from Modrinth"
+        },
+        {
+          "name": "Emoji Type",
+          "source": "modrinth",
+          "id": "q7vRRpxU",
+          "version": "2.3.0-1.21.3-fabric",
+          "required": false,
+          "description": "Emoji Type from Modrinth"
+        },
+        {
+          "name": "Enhanced Block Entities",
+          "source": "modrinth",
+          "id": "OVuFYfre",
+          "version": "0.10.2+1.21",
+          "required": false,
+          "description": "Enhanced Block Entities from Modrinth"
+        },
+        {
+          "name": "Entity Culling",
+          "source": "modrinth",
+          "id": "NNAgCjsB",
+          "version": "1.8.0",
+          "required": false,
+          "description": "Entity Culling from Modrinth"
+        },
+        {
+          "name": "Entity Texture Features",
+          "source": "modrinth",
+          "id": "BVzZfTc1",
+          "version": "6.2.9",
+          "required": false,
+          "description": "Entity Texture Features from Modrinth"
+        },
+        {
+          "name": "Entity View Distance",
+          "source": "modrinth",
+          "id": "ihnBJ6on",
+          "version": "1.3.0+1.21",
+          "required": false,
+          "description": "Entity View Distance from Modrinth"
+        },
+        {
+          "name": "Fabric API",
+          "source": "modrinth",
+          "id": "P7dR8mSH",
+          "version": "0.116.4+1.21.1",
+          "required": false,
+          "description": "Fabric API from Modrinth"
+        },
+        {
+          "name": "Fabric Language Kotlin",
+          "source": "modrinth",
+          "id": "Ha28R6CL",
+          "version": "1.13.4+kotlin.2.2.0",
+          "required": false,
+          "description": "Fabric Language Kotlin from Modrinth"
+        },
+        {
+          "name": "FabricSkyboxes",
+          "source": "modrinth",
+          "id": "YBz7DOs8",
+          "version": "mc1.21-0.7.4",
+          "required": false,
+          "description": "FabricSkyboxes from Modrinth"
+        },
+        {
+          "name": "FastQuit",
+          "source": "modrinth",
+          "id": "x1hIzbuY",
+          "version": "3.0.0+1.20.6",
+          "required": false,
+          "description": "FastQuit from Modrinth"
+        },
+        {
+          "name": "FerriteCore",
+          "source": "modrinth",
+          "id": "uXXizFIs",
+          "version": "7.0.2-hotfix-fabric",
+          "required": false,
+          "description": "FerriteCore from Modrinth"
+        },
+        {
+          "name": "Flashback",
+          "source": "modrinth",
+          "id": "4das1Fjq",
+          "version": "0.35.2",
+          "required": false,
+          "description": "Flashback from Modrinth"
+        },
+        {
+          "name": "forcecloseloadingscreen",
+          "source": "modrinth",
+          "id": "blWBX5n1",
+          "version": "2.2.3",
+          "required": false,
+          "description": "forcecloseloadingscreen from Modrinth"
+        },
+        {
+          "name": "fsb-interop",
+          "source": "modrinth",
+          "id": "HpdHOPOp",
+          "version": "mc1.21-1.4.0",
+          "required": false,
+          "description": "fsb-interop from Modrinth"
+        },
+        {
+          "name": "Fzzy Config",
+          "source": "modrinth",
+          "id": "hYykXjDp",
+          "version": "0.7.0+1.21",
+          "required": false,
+          "description": "Fzzy Config from Modrinth"
+        },
+        {
+          "name": "ImmediatelyFast",
+          "source": "modrinth",
+          "id": "5ZwdcRci",
+          "version": "1.6.5+1.21.1-fabric",
+          "required": false,
+          "description": "ImmediatelyFast from Modrinth"
+        },
+        {
+          "name": "Interactic",
+          "source": "modrinth",
+          "id": "ErpAAAaf",
+          "version": "0.2.3+1.21",
+          "required": false,
+          "description": "Interactic from Modrinth"
+        },
+        {
+          "name": "Krypton",
+          "source": "modrinth",
+          "id": "fQEb0iXm",
+          "version": "0.2.8",
+          "required": false,
+          "description": "Krypton from Modrinth"
+        },
+        {
+          "name": "Ksyxis",
+          "source": "modrinth",
+          "id": "2ecVyZ49",
+          "version": "1.3.3",
+          "required": false,
+          "description": "Ksyxis from Modrinth"
+        },
+        {
+          "name": "Language Reload",
+          "source": "modrinth",
+          "id": "uLbm7CG6",
+          "version": "1.7.4+1.21.1",
+          "required": false,
+          "description": "Language Reload from Modrinth"
+        },
+        {
+          "name": "Lithium",
+          "source": "modrinth",
+          "id": "gvQqBUqZ",
+          "version": "mc1.21.1-0.15.0-fabric",
+          "required": false,
+          "description": "Lithium from Modrinth"
+        },
+        {
+          "name": "Mod Menu",
+          "source": "modrinth",
+          "id": "mOgUt4GM",
+          "version": "11.0.3",
+          "required": false,
+          "description": "Mod Menu from Modrinth"
+        },
+        {
+          "name": "ModernFix",
+          "source": "modrinth",
+          "id": "nmDcB62a",
+          "version": "5.23.1+mc1.21.1",
+          "required": false,
+          "description": "ModernFix from Modrinth"
+        },
+        {
+          "name": "More Chat History",
+          "source": "modrinth",
+          "id": "8qkXwOnk",
+          "version": "1.3.1",
+          "required": false,
+          "description": "More Chat History from Modrinth"
+        },
+        {
+          "name": "No Resource Pack Warnings",
+          "source": "modrinth",
+          "id": "6xKUDQcB",
+          "version": "1.3.1",
+          "required": false,
+          "description": "No Resource Pack Warnings from Modrinth"
+        },
+        {
+          "name": "Noisium",
+          "source": "modrinth",
+          "id": "KuNKN7d2",
+          "version": "2.3.0+mc1.21-1.21.1",
+          "required": false,
+          "description": "Noisium from Modrinth"
+        },
+        {
+          "name": "NoRefreshScroll",
+          "source": "modrinth",
+          "id": "bWkJ7ejc",
+          "version": "1.0.10",
+          "required": false,
+          "description": "NoRefreshScroll from Modrinth"
+        },
+        {
+          "name": "Not Enough Animations",
+          "source": "modrinth",
+          "id": "MPCX6s5C",
+          "version": "1.10.0",
+          "required": false,
+          "description": "Not Enough Animations from Modrinth"
+        },
+        {
+          "name": "Not Enough Crashes",
+          "source": "modrinth",
+          "id": "yM94ont6",
+          "version": "4.4.9+1.21.1-fabric",
+          "required": false,
+          "description": "Not Enough Crashes from Modrinth"
+        },
+        {
+          "name": "Ok Zoomer",
+          "source": "modrinth",
+          "id": "aXf2OSFU",
+          "version": "9.3.0+Fabric",
+          "required": false,
+          "description": "Ok Zoomer from Modrinth"
+        },
+        {
+          "name": "owo-lib",
+          "source": "modrinth",
+          "id": "ccKDOlHs",
+          "version": "0.12.15.4+1.21",
+          "required": false,
+          "description": "owo-lib from Modrinth"
+        },
+        {
+          "name": "Particle Core",
+          "source": "modrinth",
+          "id": "RSeLon5O",
+          "version": "0.2.6+1.21",
+          "required": false,
+          "description": "Particle Core from Modrinth"
+        },
+        {
+          "name": "Recipe Unlocker",
+          "source": "modrinth",
+          "id": "J1nJ0y6I",
+          "version": "1.2",
+          "required": false,
+          "description": "Recipe Unlocker from Modrinth"
+        },
+        {
+          "name": "Reeses Sodium Options",
+          "source": "modrinth",
+          "id": "Bh37bMuy",
+          "version": "mc1.21.4-1.8.3+fabric",
+          "required": false,
+          "description": "Reeses Sodium Options from Modrinth"
+        },
+        {
+          "name": "Resourceful Config",
+          "source": "modrinth",
+          "id": "M1953qlQ",
+          "version": "3.0.11",
+          "required": false,
+          "description": "Resourceful Config from Modrinth"
+        },
+        {
+          "name": "ScalableLux",
+          "source": "modrinth",
+          "id": "Ps1zyz6x",
+          "version": "0.1.0+fabric.26c6e72",
+          "required": false,
+          "description": "ScalableLux from Modrinth"
+        },
+        {
+          "name": "Server Pinger Fixer",
+          "source": "modrinth",
+          "id": "iqK5uv72",
+          "version": "1.0.5",
+          "required": false,
+          "description": "Server Pinger Fixer from Modrinth"
+        },
+        {
+          "name": "Shulker Box Tooltip",
+          "source": "modrinth",
+          "id": "2M01OLQq",
+          "version": "5.1.6+1.21.1-fabric",
+          "required": false,
+          "description": "Shulker Box Tooltip from Modrinth"
+        },
+        {
+          "name": "Smoke Suppression",
+          "source": "modrinth",
+          "id": "nKcekY2P",
+          "version": "1.1.1+MC1.21-1.21.1",
+          "required": false,
+          "description": "Smoke Suppression from Modrinth"
+        },
+        {
+          "name": "Smooth Scrolling Refurbished",
+          "source": "modrinth",
+          "id": "trr0scVt",
+          "version": "1.1.4",
+          "required": false,
+          "description": "Smooth Scrolling Refurbished from Modrinth"
+        },
+        {
+          "name": "Smooth Skies",
+          "source": "modrinth",
+          "id": "uvlgIwBD",
+          "version": "2.10.4",
+          "required": false,
+          "description": "Smooth Skies from Modrinth"
+        },
+        {
+          "name": "Sodium",
+          "source": "modrinth",
+          "id": "AANobbMI",
+          "version": "mc1.21.1-0.6.13-fabric",
+          "required": false,
+          "description": "Sodium from Modrinth"
+        },
+        {
+          "name": "Sodium Extra",
+          "source": "modrinth",
+          "id": "PtjYWJkn",
+          "version": "mc1.21.1-0.6.0+fabric",
+          "required": false,
+          "description": "Sodium Extra from Modrinth"
+        },
+        {
+          "name": "Status Effect Timer",
+          "source": "modrinth",
+          "id": "T9FDHbY5",
+          "version": "1.2.0+1.21",
+          "required": false,
+          "description": "Status Effect Timer from Modrinth"
+        },
+        {
+          "name": "ThreadTweak",
+          "source": "modrinth",
+          "id": "vSEH1ERy",
+          "version": "0.1.5",
+          "required": false,
+          "description": "ThreadTweak from Modrinth"
+        },
+        {
+          "name": "Time Changer",
+          "source": "modrinth",
+          "id": "1itdse3V",
+          "version": "1.3.2",
+          "required": false,
+          "description": "Time Changer from Modrinth"
+        },
+        {
+          "name": "totemtweaks",
+          "source": "modrinth",
+          "id": "1cfO6J6t",
+          "version": "1.21.1-1.0.1",
+          "required": false,
+          "description": "smallpop from Modrinth"
+        },
+        {
+          "name": "VanillaIcecreamFix",
+          "source": "modrinth",
+          "id": "5HUqEye3",
+          "version": "1.2.3-beta",
+          "required": false,
+          "description": "VanillaIcecreamFix from Modrinth"
+        },
+        {
+          "name": "Vectorientation",
+          "source": "modrinth",
+          "id": "NpPKJQg6",
+          "version": "1.1",
+          "required": false,
+          "description": "Vectorientation from Modrinth"
+        },
+        {
+          "name": "ViaFabricPlus",
+          "source": "modrinth",
+          "id": "rIC2XJV4",
+          "version": "3.4.9",
+          "required": false,
+          "description": "ViaFabricPlus from Modrinth"
+        },
+        {
+          "name": "Yet Another Config Lib",
+          "source": "modrinth",
+          "id": "1eAoo2KR",
+          "version": "3.7.1+1.21.1-fabric",
+          "required": false,
+          "description": "Yet Another Config Lib from Modrinth"
+        }
+      ]
+    },
+    "1.21.3": {
+      "mods": [
+        {
+          "name": "Architectury",
+          "source": "modrinth",
+          "id": "lhGA9TYQ",
+          "version": "14.0.4+fabric",
+          "required": false,
+          "description": "Architectury from Modrinth"
+        },
+        {
+          "name": "BadOptimizations",
+          "source": "modrinth",
+          "id": "g96Z4WVZ",
+          "version": "2.2.3",
+          "required": false,
+          "description": "BadOptimizations from Modrinth"
+        },
+        {
+          "name": "BetterGrassify",
+          "source": "modrinth",
+          "id": "m5T5xmUy",
+          "version": "1.7.0+fabric.1.21.3",
+          "required": false,
+          "description": "BetterGrassify from Modrinth"
+        },
+        {
+          "name": "Bobby",
+          "source": "modrinth",
+          "id": "M08ruV16",
+          "version": "5.2.5+mc1.21.2",
+          "required": false,
+          "description": "Bobby from Modrinth"
+        },
+        {
+          "name": "Borderless Fullscreen",
+          "source": "modrinth",
+          "id": "UIexcMP1",
+          "version": "2.2.1a",
+          "required": false,
+          "description": "Borderless Fullscreen from Modrinth"
+        },
+        {
+          "name": "Cloth Config",
+          "source": "modrinth",
+          "id": "9s6osm5g",
+          "version": "16.0.143+fabric",
+          "required": false,
+          "description": "Cloth Config from Modrinth"
+        },
+        {
+          "name": "commandkeys",
+          "source": "modrinth",
+          "id": "65UyswbY",
+          "version": "2.3.11+1.21.1",
+          "required": false,
+          "description": "commandkeys from Modrinth"
+        },
+        {
+          "name": "Custom FOV",
+          "source": "modrinth",
+          "id": "uZAcFHLd",
+          "version": "10.0.0+1.21.5",
+          "required": false,
+          "description": "Custom FOV from Modrinth"
+        },
+        {
+          "name": "Debugify",
+          "source": "modrinth",
+          "id": "QwxR6Gcd",
+          "version": "1.21.3+1.0",
+          "required": false,
+          "description": "Debugify from Modrinth"
+        },
+        {
+          "name": "Dynamic FPS",
+          "source": "modrinth",
+          "id": "LQ3K71Q1",
+          "version": "3.9.5",
+          "required": false,
+          "description": "Dynamic FPS from Modrinth"
+        },
+        {
+          "name": "Emoji Type",
+          "source": "modrinth",
+          "id": "q7vRRpxU",
+          "version": "2.3.0-1.21.3-fabric",
+          "required": false,
+          "description": "Emoji Type from Modrinth"
+        },
+        {
+          "name": "Enhanced Block Entities",
+          "source": "modrinth",
+          "id": "OVuFYfre",
+          "version": "0.11+1.21.2",
+          "required": false,
+          "description": "Enhanced Block Entities from Modrinth"
+        },
+        {
+          "name": "Entity Culling",
+          "source": "modrinth",
+          "id": "NNAgCjsB",
+          "version": "1.8.0",
+          "required": false,
+          "description": "Entity Culling from Modrinth"
+        },
+        {
+          "name": "Entity Texture Features",
+          "source": "modrinth",
+          "id": "BVzZfTc1",
+          "version": "6.2.9",
+          "required": false,
+          "description": "Entity Texture Features from Modrinth"
+        },
+        {
+          "name": "Entity View Distance",
+          "source": "modrinth",
+          "id": "ihnBJ6on",
+          "version": "1.3.0+1.21",
+          "required": false,
+          "description": "Entity View Distance from Modrinth"
+        },
+        {
+          "name": "Exordium",
+          "source": "modrinth",
+          "id": "DynYZEae",
+          "version": "1.4.1",
+          "required": false,
+          "description": "Exordium from Modrinth"
+        },
+        {
+          "name": "Fabric API",
+          "source": "modrinth",
+          "id": "P7dR8mSH",
+          "version": "0.114.1+1.21.3",
+          "required": false,
+          "description": "Fabric API from Modrinth"
+        },
+        {
+          "name": "Fabric Language Kotlin",
+          "source": "modrinth",
+          "id": "Ha28R6CL",
+          "version": "1.13.4+kotlin.2.2.0",
+          "required": false,
+          "description": "Fabric Language Kotlin from Modrinth"
+        },
+        {
+          "name": "FastQuit",
+          "source": "modrinth",
+          "id": "x1hIzbuY",
+          "version": "3.0.0+1.21.3",
+          "required": false,
+          "description": "FastQuit from Modrinth"
+        },
+        {
+          "name": "FerriteCore",
+          "source": "modrinth",
+          "id": "uXXizFIs",
+          "version": "7.1.0-hotfix-fabric",
+          "required": false,
+          "description": "FerriteCore from Modrinth"
+        },
+        {
+          "name": "Flashback",
+          "source": "modrinth",
+          "id": "4das1Fjq",
+          "version": "0.13.0",
+          "required": false,
+          "description": "Flashback from Modrinth"
+        },
+        {
+          "name": "forcecloseloadingscreen",
+          "source": "modrinth",
+          "id": "blWBX5n1",
+          "version": "2.2.3",
+          "required": false,
+          "description": "forcecloseloadingscreen from Modrinth"
+        },
+        {
+          "name": "Forge Config API Port",
+          "source": "modrinth",
+          "id": "ohNO6lps",
+          "version": "v21.3.3-1.21.3-Fabric",
+          "required": false,
+          "description": "Forge Config API Port from Modrinth"
+        },
+        {
+          "name": "Fzzy Config",
+          "source": "modrinth",
+          "id": "hYykXjDp",
+          "version": "0.7.0+1.21.3",
+          "required": false,
+          "description": "Fzzy Config from Modrinth"
+        },
+        {
+          "name": "ImmediatelyFast",
+          "source": "modrinth",
+          "id": "5ZwdcRci",
+          "version": "1.7.0+1.21.3-fabric",
+          "required": false,
+          "description": "ImmediatelyFast from Modrinth"
+        },
+        {
+          "name": "Krypton",
+          "source": "modrinth",
+          "id": "fQEb0iXm",
+          "version": "0.2.8",
+          "required": false,
+          "description": "Krypton from Modrinth"
+        },
+        {
+          "name": "Ksyxis",
+          "source": "modrinth",
+          "id": "2ecVyZ49",
+          "version": "1.3.3",
+          "required": false,
+          "description": "Ksyxis from Modrinth"
+        },
+        {
+          "name": "Language Reload",
+          "source": "modrinth",
+          "id": "uLbm7CG6",
+          "version": "1.7.4+1.21.3",
+          "required": false,
+          "description": "Language Reload from Modrinth"
+        },
+        {
+          "name": "Lithium",
+          "source": "modrinth",
+          "id": "gvQqBUqZ",
+          "version": "mc1.21.3-0.14.6-fabric",
+          "required": false,
+          "description": "Lithium from Modrinth"
+        },
+        {
+          "name": "Mod Menu",
+          "source": "modrinth",
+          "id": "mOgUt4GM",
+          "version": "12.0.0",
+          "required": false,
+          "description": "Mod Menu from Modrinth"
+        },
+        {
+          "name": "More Chat History",
+          "source": "modrinth",
+          "id": "8qkXwOnk",
+          "version": "1.3.1",
+          "required": false,
+          "description": "More Chat History from Modrinth"
+        },
+        {
+          "name": "No Resource Pack Warnings",
+          "source": "modrinth",
+          "id": "6xKUDQcB",
+          "version": "1.3.1",
+          "required": false,
+          "description": "No Resource Pack Warnings from Modrinth"
+        },
+        {
+          "name": "Noisium",
+          "source": "modrinth",
+          "id": "KuNKN7d2",
+          "version": "2.4.0+mc1.21.2-1.21.3",
+          "required": false,
+          "description": "Noisium from Modrinth"
+        },
+        {
+          "name": "Not Enough Animations",
+          "source": "modrinth",
+          "id": "MPCX6s5C",
+          "version": "1.10.0",
+          "required": false,
+          "description": "Not Enough Animations from Modrinth"
+        },
+        {
+          "name": "Ok Zoomer",
+          "source": "modrinth",
+          "id": "aXf2OSFU",
+          "version": "11.0.0-beta.4+fabric",
+          "required": false,
+          "description": "Ok Zoomer from Modrinth"
+        },
+        {
+          "name": "owo-lib",
+          "source": "modrinth",
+          "id": "ccKDOlHs",
+          "version": "0.12.18+1.21.2",
+          "required": false,
+          "description": "owo-lib from Modrinth"
+        },
+        {
+          "name": "Particle Core",
+          "source": "modrinth",
+          "id": "RSeLon5O",
+          "version": "0.2.6+1.21.2",
+          "required": false,
+          "description": "Particle Core from Modrinth"
+        },
+        {
+          "name": "Reeses Sodium Options",
+          "source": "modrinth",
+          "id": "Bh37bMuy",
+          "version": "mc1.21.4-1.8.3+fabric",
+          "required": false,
+          "description": "Reeses Sodium Options from Modrinth"
+        },
+        {
+          "name": "Rrls",
+          "source": "modrinth",
+          "id": "ZP7xHXtw",
+          "version": "5.0.11+mc1.21.3-fabric",
+          "required": false,
+          "description": "Rrls from Modrinth"
+        },
+        {
+          "name": "Resourceful Config",
+          "source": "modrinth",
+          "id": "M1953qlQ",
+          "version": "3.3.4",
+          "required": false,
+          "description": "Resourceful Config from Modrinth"
+        },
+        {
+          "name": "ScalableLux",
+          "source": "modrinth",
+          "id": "Ps1zyz6x",
+          "version": "0.1.2+beta.1+fabric.6d46f24",
+          "required": false,
+          "description": "ScalableLux from Modrinth"
+        },
+        {
+          "name": "Server Pinger Fixer",
+          "source": "modrinth",
+          "id": "iqK5uv72",
+          "version": "1.0.5",
+          "required": false,
+          "description": "Server Pinger Fixer from Modrinth"
+        },
+        {
+          "name": "Shulker Box Tooltip",
+          "source": "modrinth",
+          "id": "2M01OLQq",
+          "version": "5.2.6+1.21.3-fabric",
+          "required": false,
+          "description": "Shulker Box Tooltip from Modrinth"
+        },
+        {
+          "name": "Smoke Suppression",
+          "source": "modrinth",
+          "id": "nKcekY2P",
+          "version": "1.2.3+MC1.21.2-1.21.6",
+          "required": false,
+          "description": "Smoke Suppression from Modrinth"
+        },
+        {
+          "name": "Smooth Scrolling Refurbished",
+          "source": "modrinth",
+          "id": "trr0scVt",
+          "version": "1.2.0",
+          "required": false,
+          "description": "Smooth Scrolling Refurbished from Modrinth"
+        },
+        {
+          "name": "Smooth Skies",
+          "source": "modrinth",
+          "id": "uvlgIwBD",
+          "version": "2.10.4",
+          "required": false,
+          "description": "Smooth Skies from Modrinth"
+        },
+        {
+          "name": "Sodium",
+          "source": "modrinth",
+          "id": "AANobbMI",
+          "version": "mc1.21.3-0.6.13-fabric",
+          "required": false,
+          "description": "Sodium from Modrinth"
+        },
+        {
+          "name": "Sodium Extra",
+          "source": "modrinth",
+          "id": "PtjYWJkn",
+          "version": "mc1.21.3-0.6.0+fabric",
+          "required": false,
+          "description": "Sodium Extra from Modrinth"
+        },
+        {
+          "name": "Status Effect Timer",
+          "source": "modrinth",
+          "id": "T9FDHbY5",
+          "version": "1.2.0+1.21",
+          "required": false,
+          "description": "Status Effect Timer from Modrinth"
+        },
+        {
+          "name": "ThreadTweak",
+          "source": "modrinth",
+          "id": "vSEH1ERy",
+          "version": "0.1.7",
+          "required": false,
+          "description": "ThreadTweak from Modrinth"
+        },
+        {
+          "name": "Time Changer",
+          "source": "modrinth",
+          "id": "1itdse3V",
+          "version": "1.3.2",
+          "required": false,
+          "description": "Time Changer from Modrinth"
+        },
+                {
+          "name": "totemtweaks",
+          "source": "modrinth",
+          "id": "1cfO6J6t",
+          "version": "1.21.3-1.0.1",
+          "required": false,
+          "description": "smallpop from Modrinth"
+        },
+        {
+          "name": "Vectorientation",
+          "source": "modrinth",
+          "id": "NpPKJQg6",
+          "version": "1.1",
+          "required": false,
+          "description": "Vectorientation from Modrinth"
+        },
+        {
+          "name": "ViaFabricPlus",
+          "source": "modrinth",
+          "id": "rIC2XJV4",
+          "version": "3.5.3",
+          "required": false,
+          "description": "ViaFabricPlus from Modrinth"
+        },
+        {
+          "name": "Yet Another Config Lib",
+          "source": "modrinth",
+          "id": "1eAoo2KR",
+          "version": "3.7.1+1.21.3-fabric",
+          "required": false,
+          "description": "Yet Another Config Lib from Modrinth"
+        }
+      ]
+    },
+    "1.21.4": {
+      "mods": [
+        {
+          "name": "Architectury",
+          "source": "modrinth",
+          "id": "lhGA9TYQ",
+          "version": "15.0.3+fabric",
+          "required": false,
+          "description": "Architectury from Modrinth"
+        },
+        {
+          "name": "BadOptimizations",
+          "source": "modrinth",
+          "id": "g96Z4WVZ",
+          "version": "2.2.3",
+          "required": false,
+          "description": "BadOptimizations from Modrinth"
+        },
+        {
+          "name": "BetterGrassify",
+          "source": "modrinth",
+          "id": "m5T5xmUy",
+          "version": "1.7.0+fabric.1.21.4",
+          "required": false,
+          "description": "BetterGrassify from Modrinth"
+        },
+        {
+          "name": "Bobby",
+          "source": "modrinth",
+          "id": "M08ruV16",
+          "version": "5.2.6+mc1.21.4",
+          "required": false,
+          "description": "Bobby from Modrinth"
+        },
+        {
+          "name": "Borderless Fullscreen",
+          "source": "modrinth",
+          "id": "UIexcMP1",
+          "version": "2.2.1a",
+          "required": false,
+          "description": "Borderless Fullscreen from Modrinth"
+        },
+        {
+          "name": "Clear Water",
+          "source": "modrinth",
+          "id": "485Cv9lY",
+          "version": "3.1.0",
+          "required": false,
+          "description": "Borderless Fullscreen from Modrinth"
+        },
+        {
+          "name": "Cloth Config",
+          "source": "modrinth",
+          "id": "9s6osm5g",
+          "version": "17.0.144+fabric",
+          "required": false,
+          "description": "Cloth Config from Modrinth"
+        },
+        {
+          "name": "commandkeys",
+          "source": "modrinth",
+          "id": "65UyswbY",
+          "version": "2.3.11+1.21.4",
+          "required": false,
+          "description": "commandkeys from Modrinth"
+        },
+        {
+          "name": "Custom FOV",
+          "source": "modrinth",
+          "id": "uZAcFHLd",
+          "version": "10.0.0+1.21.5",
+          "required": false,
+          "description": "Custom FOV from Modrinth"
+        },
+        {
+          "name": "Debugify",
+          "source": "modrinth",
+          "id": "QwxR6Gcd",
+          "version": "1.21.4+1.1",
+          "required": false,
+          "description": "Debugify from Modrinth"
+        },
+        {
+          "name": "Dynamic FPS",
+          "source": "modrinth",
+          "id": "LQ3K71Q1",
+          "version": "3.9.5",
+          "required": false,
+          "description": "Dynamic FPS from Modrinth"
+        },
+        {
+          "name": "Emoji Type",
+          "source": "modrinth",
+          "id": "q7vRRpxU",
+          "version": "2.3.0-1.21.3-fabric",
+          "required": false,
+          "description": "Emoji Type from Modrinth"
+        },
+        {
+          "name": "Enhanced Block Entities",
+          "source": "modrinth",
+          "id": "OVuFYfre",
+          "version": "0.11.3+1.21.4",
+          "required": false,
+          "description": "Enhanced Block Entities from Modrinth"
+        },
+        {
+          "name": "Entity Culling",
+          "source": "modrinth",
+          "id": "NNAgCjsB",
+          "version": "1.8.0",
+          "required": false,
+          "description": "Entity Culling from Modrinth"
+        },
+        {
+          "name": "Entity Texture Features",
+          "source": "modrinth",
+          "id": "BVzZfTc1",
+          "version": "6.2.10",
+          "required": false,
+          "description": "Entity Texture Features from Modrinth"
+        },
+        {
+          "name": "Entity View Distance",
+          "source": "modrinth",
+          "id": "ihnBJ6on",
+          "version": "1.4.0+1.21.4",
+          "required": false,
+          "description": "Entity View Distance from Modrinth"
+        },
+        {
+          "name": "Exordium",
+          "source": "modrinth",
+          "id": "DynYZEae",
+          "version": "1.4.1",
+          "required": false,
+          "description": "Exordium from Modrinth"
+        },
+        {
+          "name": "Fabric API",
+          "source": "modrinth",
+          "id": "P7dR8mSH",
+          "version": "0.119.3+1.21.4",
+          "required": false,
+          "description": "Fabric API from Modrinth"
+        },
+        {
+          "name": "Fabric Language Kotlin",
+          "source": "modrinth",
+          "id": "Ha28R6CL",
+          "version": "1.13.4+kotlin.2.2.0",
+          "required": false,
+          "description": "Fabric Language Kotlin from Modrinth"
+        },
+        {
+          "name": "FastQuit",
+          "source": "modrinth",
+          "id": "x1hIzbuY",
+          "version": "3.0.0+1.21.4",
+          "required": false,
+          "description": "FastQuit from Modrinth"
+        },
+        {
+          "name": "FerriteCore",
+          "source": "modrinth",
+          "id": "uXXizFIs",
+          "version": "7.1.1-fabric",
+          "required": false,
+          "description": "FerriteCore from Modrinth"
+        },
+        {
+          "name": "Flashback",
+          "source": "modrinth",
+          "id": "4das1Fjq",
+          "version": "0.35.2",
+          "required": false,
+          "description": "Flashback from Modrinth"
+        },
+        {
+          "name": "forcecloseloadingscreen",
+          "source": "modrinth",
+          "id": "blWBX5n1",
+          "version": "2.2.3",
+          "required": false,
+          "description": "forcecloseloadingscreen from Modrinth"
+        },
+        {
+          "name": "Forge Config API Port",
+          "source": "modrinth",
+          "id": "ohNO6lps",
+          "version": "v21.4.1-1.21.4-Fabric",
+          "required": false,
+          "description": "Forge Config API Port from Modrinth"
+        },
+        {
+          "name": "Fzzy Config",
+          "source": "modrinth",
+          "id": "hYykXjDp",
+          "version": "0.7.0+1.21.3",
+          "required": false,
+          "description": "Fzzy Config from Modrinth"
+        },
+        {
+          "name": "ImmediatelyFast",
+          "source": "modrinth",
+          "id": "5ZwdcRci",
+          "version": "1.8.0+1.21.4-fabric",
+          "required": false,
+          "description": "ImmediatelyFast from Modrinth"
+        },
+        {
+          "name": "Krypton",
+          "source": "modrinth",
+          "id": "fQEb0iXm",
+          "version": "0.2.8",
+          "required": false,
+          "description": "Krypton from Modrinth"
+        },
+        {
+          "name": "Ksyxis",
+          "source": "modrinth",
+          "id": "2ecVyZ49",
+          "version": "1.3.3",
+          "required": false,
+          "description": "Ksyxis from Modrinth"
+        },
+        {
+          "name": "Language Reload",
+          "source": "modrinth",
+          "id": "uLbm7CG6",
+          "version": "1.7.4+1.21.4",
+          "required": false,
+          "description": "Language Reload from Modrinth"
+        },
+        {
+          "name": "Lithium",
+          "source": "modrinth",
+          "id": "gvQqBUqZ",
+          "version": "mc1.21.4-0.15.3-fabric",
+          "required": false,
+          "description": "Lithium from Modrinth"
+        },
+        {
+          "name": "Mod Menu",
+          "source": "modrinth",
+          "id": "mOgUt4GM",
+          "version": "13.0.3",
+          "required": false,
+          "description": "Mod Menu from Modrinth"
+        },
+        {
+          "name": "More Chat History",
+          "source": "modrinth",
+          "id": "8qkXwOnk",
+          "version": "1.3.1",
+          "required": false,
+          "description": "More Chat History from Modrinth"
+        },
+        {
+          "name": "No Resource Pack Warnings",
+          "source": "modrinth",
+          "id": "6xKUDQcB",
+          "version": "1.3.1",
+          "required": false,
+          "description": "No Resource Pack Warnings from Modrinth"
+        },
+        {
+          "name": "Noisium",
+          "source": "modrinth",
+          "id": "KuNKN7d2",
+          "version": "2.5.0+mc1.21.4",
+          "required": false,
+          "description": "Noisium from Modrinth"
+        },
+        {
+          "name": "NoRefreshScroll",
+          "source": "modrinth",
+          "id": "bWkJ7ejc",
+          "version": "1.0.11",
+          "required": false,
+          "description": "NoRefreshScroll from Modrinth"
+        },
+        {
+          "name": "Not Enough Animations",
+          "source": "modrinth",
+          "id": "MPCX6s5C",
+          "version": "1.10.0",
+          "required": false,
+          "description": "Not Enough Animations from Modrinth"
+        },
+                {
+          "name": "Not Enough Crashes",
+          "source": "modrinth",
+          "id": "yM94ont6",
+          "version": "4.4.8+1.21.4-fabric",
+          "required": false,
+          "description": "Not Enough Crashes from Modrinth"
+        },
+        {
+          "name": "nuit interop fabric",
+          "source": "modrinth",
+          "id": "HpdHOPOp",
+          "version": "mc1.21.4-1.0.0-beta.1+fabric",
+          "required": false,
+          "description": "nuit interop fabric from Modrinth"
+        },
+        {
+          "name": "nuit fabric",
+          "source": "modrinth",
+          "id": "YBz7DOs8",
+          "version": "mc1.21.4-1.0.0-beta.1+fabric",
+          "required": false,
+          "description": "nuit fabric from Modrinth"
+        },
+        {
+          "name": "owo-lib",
+          "source": "modrinth",
+          "id": "ccKDOlHs",
+          "version": "0.12.20+1.21.4",
+          "required": false,
+          "description": "owo-lib from Modrinth"
+        },
+        {
+          "name": "Particle Core",
+          "source": "modrinth",
+          "id": "RSeLon5O",
+          "version": "0.2.6+1.21.4",
+          "required": false,
+          "description": "Particle Core from Modrinth"
+        },
+        {
+          "name": "Reeses Sodium Options",
+          "source": "modrinth",
+          "id": "Bh37bMuy",
+          "version": "mc1.21.4-1.8.3+fabric",
+          "required": false,
+          "description": "Reeses Sodium Options from Modrinth"
+        },
+        {
+          "name":"rrls",
+          "source": "modrinth",
+          "id": "ZP7xHXtw",
+          "version": "5.1.2+mc1.21.4-fabric",
+          "required": false,
+          "description": "Rrls from Modrinth"
+        },
+        {
+          "name": "Resourceful Config",
+          "source": "modrinth",
+          "id": "M1953qlQ",
+          "version": "3.4.3",
+          "required": false,
+          "description": "Resourceful Config from Modrinth"
+        },
+        {
+          "name": "ScalableLux",
+          "source": "modrinth",
+          "id": "Ps1zyz6x",
+          "version": "0.1.2+beta.1+fabric.6d46f24",
+          "required": false,
+          "description": "ScalableLux from Modrinth"
+        },
+        {
+          "name": "Server Pinger Fixer",
+          "source": "modrinth",
+          "id": "iqK5uv72",
+          "version": "1.0.5",
+          "required": false,
+          "description": "Server Pinger Fixer from Modrinth"
+        },
+        {
+          "name": "Shulker Box Tooltip",
+          "source": "modrinth",
+          "id": "2M01OLQq",
+          "version": "5.2.6+1.21.4-fabric",
+          "required": false,
+          "description": "Shulker Box Tooltip from Modrinth"
+        },
+        {
+          "name": "Smoke Suppression",
+          "source": "modrinth",
+          "id": "nKcekY2P",
+          "version": "1.2.3+MC1.21.2-1.21.6",
+          "required": false,
+          "description": "Smoke Suppression from Modrinth"
+        },
+        {
+          "name": "Smooth Scrolling Refurbished",
+          "source": "modrinth",
+          "id": "trr0scVt",
+          "version": "1.3.0+1.21.4",
+          "required": false,
+          "description": "Smooth Scrolling Refurbished from Modrinth"
+        },
+        {
+          "name": "Smooth Skies",
+          "source": "modrinth",
+          "id": "uvlgIwBD",
+          "version": "2.10.7",
+          "required": false,
+          "description": "Smooth Skies from Modrinth"
+        },
+        {
+          "name": "Sodium",
+          "source": "modrinth",
+          "id": "AANobbMI",
+          "version": "mc1.21.4-0.6.13-fabric",
+          "required": false,
+          "description": "Sodium from Modrinth"
+        },
+        {
+          "name": "Sodium Extra",
+          "source": "modrinth",
+          "id": "PtjYWJkn",
+          "version": "mc1.21.4-0.6.1+fabric",
+          "required": false,
+          "description": "Sodium Extra from Modrinth"
+        },
+        {
+          "name": "Status Effect Timer",
+          "source": "modrinth",
+          "id": "T9FDHbY5",
+          "version": "1.2.0+1.21",
+          "required": false,
+          "description": "Status Effect Timer from Modrinth"
+        },
+        {
+          "name": "ThreadTweak",
+          "source": "modrinth",
+          "id": "vSEH1ERy",
+          "version": "0.1.7",
+          "required": false,
+          "description": "ThreadTweak from Modrinth"
+        },
+        {
+          "name": "totemtweaks",
+          "source": "modrinth",
+          "id": "1cfO6J6t",
+          "version": "1.21.4-1.0.1",
+          "required": false,
+          "description": "smallpop from Modrinth"
+        },
+        {
+          "name": "VanillaIcecreamFix",
+          "source": "modrinth",
+          "id": "5HUqEye3",
+          "version": "1.2.4-beta",
+          "required": false,
+          "description": "smallpop from Modrinth"
+        },
+        {
+          "name": "Vectorientation",
+          "source": "modrinth",
+          "id": "NpPKJQg6",
+          "version": "1.1",
+          "required": false,
+          "description": "Vectorientation from Modrinth"
+        },
+        {
+          "name": "ViaFabricPlus",
+          "source": "modrinth",
+          "id": "rIC2XJV4",
+          "version": "4.0.5-BACKPORT",
+          "required": false,
+          "description": "ViaFabricPlus from Modrinth"
+        },
+        {
+          "name": "Yet Another Config Lib",
+          "source": "modrinth",
+          "id": "1eAoo2KR",
+          "version": "3.7.1+1.21.4-fabric",
+          "required": false,
+          "description": "Yet Another Config Lib from Modrinth"
+        }
+      ]
+    },
+
+    "1.21.5": {
+      "mods": [
+        {
+          "name": "Architectury",
+          "source": "modrinth",
+          "id": "lhGA9TYQ",
+          "version": "16.1.4+fabric",
+          "required": false,
+          "description": "Architectury from Modrinth"
+        },
+        {
+          "name": "BadOptimizations",
+          "source": "modrinth",
+          "id": "g96Z4WVZ",
+          "version": "2.2.3",
+          "required": false,
+          "description": "BadOptimizations from Modrinth"
+        },
+        {
+          "name": "BetterGrassify",
+          "source": "modrinth",
+          "id": "m5T5xmUy",
+          "version": "1.7.0+fabric.1.21.5",
+          "required": false,
+          "description": "BetterGrassify from Modrinth"
+        },
+        {
+          "name": "Bobby",
+          "source": "modrinth",
+          "id": "M08ruV16",
+          "version": "5.2.7+mc1.21.5",
+          "required": false,
+          "description": "Bobby from Modrinth"
+        },
+        {
+          "name": "Borderless Fullscreen",
+          "source": "modrinth",
+          "id": "UIexcMP1",
+          "version": "2.2.1a",
+          "required": false,
+          "description": "Borderless Fullscreen from Modrinth"
+        },
+        {
+          "name": "Clear Water",
+          "source": "modrinth",
+          "id": "485Cv9lY",
+          "version": "3.2.0",
+          "required": false,
+          "description": "Clear Water from Modrinth"
+        },
+        {
+          "name": "Cloth Config",
+          "source": "modrinth",
+          "id": "9s6osm5g",
+          "version": "18.0.145+fabric",
+          "required": false,
+          "description": "Cloth Config from Modrinth"
+        },
+        {
+          "name": "commandkeys",
+          "source": "modrinth",
+          "id": "65UyswbY",
+          "version": "2.3.10+1.21.4",
+          "required": false,
+          "description": "commandkeys from Modrinth"
+        },
+        {
+          "name": "Custom FOV",
+          "source": "modrinth",
+          "id": "uZAcFHLd",
+          "version": "10.0.0+1.21.5",
+          "required": false,
+          "description": "Custom FOV from Modrinth"
+        },
+        {
+          "name": "Debugify",
+          "source": "modrinth",
+          "id": "QwxR6Gcd",
+          "version": "1.21.5+1.0",
+          "required": false,
+          "description": "Debugify from Modrinth"
+        },
+        {
+          "name": "Dynamic FPS",
+          "source": "modrinth",
+          "id": "LQ3K71Q1",
+          "version": "3.9.5",
+          "required": false,
+          "description": "Dynamic FPS from Modrinth"
+        },
+        {
+          "name": "Emoji Type",
+          "source": "modrinth",
+          "id": "q7vRRpxU",
+          "version": "2.3.0-1.21.3-fabric",
+          "required": false,
+          "description": "Emoji Type from Modrinth"
+        },
+        {
+          "name": "Entity Culling",
+          "source": "modrinth",
+          "id": "NNAgCjsB",
+          "version": "1.8.0",
+          "required": false,
+          "description": "Entity Culling from Modrinth"
+        },
+        {
+          "name": "Smooth Skies",
+          "source": "modrinth",
+          "id": "uvlgIwBD",
+          "version": "2.10.7",
+          "required": false,
+          "description": "Smooth Skies from Modrinth"
+        },
+        {
+          "name": "Entity Texture Features",
+          "source": "modrinth",
+          "id": "BVzZfTc1",
+          "version": "6.2.13",
+          "required": false,
+          "description": "Entity Texture Features from Modrinth"
+        },
+        {
+          "name": "Entity View Distance",
+          "source": "modrinth",
+          "id": "ihnBJ6on",
+          "version": "1.4.0+1.21.4",
+          "required": false,
+          "description": "Entity View Distance from Modrinth"
+        },
+        {
+          "name": "Fabric API",
+          "source": "modrinth",
+          "id": "P7dR8mSH",
+          "version": "0.127.1+1.21.5",
+          "required": false,
+          "description": "Fabric API from Modrinth"
+        },
+        {
+          "name": "Fabric Language Kotlin",
+          "source": "modrinth",
+          "id": "Ha28R6CL",
+          "version": "1.13.3+kotlin.2.1.21",
+          "required": false,
+          "description": "Fabric Language Kotlin from Modrinth"
+        },
+        {
+          "name": "FastQuit",
+          "source": "modrinth",
+          "id": "x1hIzbuY",
+          "version": "3.0.0+1.21.4",
+          "required": false,
+          "description": "FastQuit from Modrinth"
+        },
+        {
+          "name": "FerriteCore",
+          "source": "modrinth",
+          "id": "uXXizFIs",
+          "version": "8.0.0-fabric",
+          "required": false,
+          "description": "FerriteCore from Modrinth"
+        },
+        {
+          "name": "Flashback",
+          "source": "modrinth",
+          "id": "4das1Fjq",
+          "version": "0.34.0",
+          "required": false,
+          "description": "Flashback from Modrinth"
+        },
+        {
+          "name": "forcecloseloadingscreen",
+          "source": "modrinth",
+          "id": "blWBX5n1",
+          "version": "2.2.3",
+          "required": false,
+          "description": "forcecloseloadingscreen from Modrinth"
+        },
+        {
+          "name": "Forge Config API Port",
+          "source": "modrinth",
+          "id": "ohNO6lps",
+          "version": "v21.5.1-1.21.5-Fabric",
+          "required": false,
+          "description": "Forge Config API Port from Modrinth"
+        },
+        {
+          "name": "Fzzy Config",
+          "source": "modrinth",
+          "id": "hYykXjDp",
+          "version": "0.7.0+1.21.5",
+          "required": false,
+          "description": "Fzzy Config from Modrinth"
+        },
+        {
+          "name": "ImmediatelyFast",
+          "source": "modrinth",
+          "id": "5ZwdcRci",
+          "version": "1.9.5+1.21.5-fabric",
+          "required": false,
+          "description": "ImmediatelyFast from Modrinth"
+        },
+        {
+          "name": "Krypton",
+          "source": "modrinth",
+          "id": "fQEb0iXm",
+          "version": "0.2.9",
+          "required": false,
+          "description": "Krypton from Modrinth"
+        },
+        {
+          "name": "Ksyxis",
+          "source": "modrinth",
+          "id": "2ecVyZ49",
+          "version": "1.3.3",
+          "required": false,
+          "description": "Ksyxis from Modrinth"
+        },
+        {
+          "name": "Language Reload",
+          "source": "modrinth",
+          "id": "uLbm7CG6",
+          "version": "1.7.4+1.21.5",
+          "required": false,
+          "description": "Language Reload from Modrinth"
+        },
+        {
+          "name": "Lithium",
+          "source": "modrinth",
+          "id": "gvQqBUqZ",
+          "version": "mc1.21.5-0.16.3-fabric",
+          "required": false,
+          "description": "Lithium from Modrinth"
+        },
+        {
+          "name": "Mod Menu",
+          "source": "modrinth",
+          "id": "mOgUt4GM",
+          "version": "14.0.0-rc.2",
+          "required": false,
+          "description": "Mod Menu from Modrinth"
+        },
+        {
+          "name": "More Chat History",
+          "source": "modrinth",
+          "id": "8qkXwOnk",
+          "version": "1.3.1",
+          "required": false,
+          "description": "More Chat History from Modrinth"
+        },
+        {
+          "name": "No Resource Pack Warnings",
+          "source": "modrinth",
+          "id": "6xKUDQcB",
+          "version": "1.3.1",
+          "required": false,
+          "description": "No Resource Pack Warnings from Modrinth"
+        },
+        {
+          "name": "Noisium",
+          "source": "modrinth",
+          "id": "KuNKN7d2",
+          "version": "2.6.0+mc1.21.5",
+          "required": false,
+          "description": "Noisium from Modrinth"
+        },
+        {
+          "name": "NoRefreshScroll",
+          "source": "modrinth",
+          "id": "bWkJ7ejc",
+          "version": "1.0.11",
+          "required": false,
+          "description": "NoRefreshScroll from Modrinth"
+        },
+        {
+          "name": "Not Enough Animations",
+          "source": "modrinth",
+          "id": "MPCX6s5C",
+          "version": "1.9.3",
+          "required": false,
+          "description": "Not Enough Animations from Modrinth"
+        },
+        {
+          "name": "Not Enough Crashes",
+          "source": "modrinth",
+          "id": "yM94ont6",
+          "version": "4.4.9+1.21.5-fabric",
+          "required": false,
+          "description": "Not Enough Crashes from Modrinth"
+        },
+        {
+          "name": "Ok Zoomer",
+          "source": "modrinth",
+          "id": "aXf2OSFU",
+          "version": "13.0.0-beta.2+fabric",
+          "required": false,
+          "description": "Ok Zoomer from Modrinth"
+        },
+        {
+          "name": "owo-lib",
+          "source": "modrinth",
+          "id": "ccKDOlHs",
+          "version": "0.12.21+1.21.5",
+          "required": false,
+          "description": "owo-lib from Modrinth"
+        },
+        {
+          "name": "Particle Core",
+          "source": "modrinth",
+          "id": "RSeLon5O",
+          "version": "0.2.6+1.21.5",
+          "required": false,
+          "description": "Particle Core from Modrinth"
+        },
+        {
+          "name": "Reeses Sodium Options",
+          "source": "modrinth",
+          "id": "Bh37bMuy",
+          "version": "mc1.21.4-1.8.3+fabric",
+          "required": false,
+          "description": "Reeses Sodium Options from Modrinth"
+        },
+        {
+          "name": "rrls",
+          "source": "modrinth",
+          "id": "ZP7xHXtw",
+          "version": "5.1.6+mc1.21.5-fabric",
+          "required": false,
+          "description": "Rrls from Modrinth"
+        },
+        {
+          "name": "Resourceful Config",
+          "source": "modrinth",
+          "id": "M1953qlQ",
+          "version": "3.5.9",
+          "required": false,
+          "description": "Resourceful Config from Modrinth"
+        },
+        {
+          "name": "ScalableLux",
+          "source": "modrinth",
+          "id": "Ps1zyz6x",
+          "version": "0.1.3+beta.1+fabric.4039a8d",
+          "required": false,
+          "description": "ScalableLux from Modrinth"
+        },
+        {
+          "name": "Server Pinger Fixer",
+          "source": "modrinth",
+          "id": "iqK5uv72",
+          "version": "1.0.5",
+          "required": false,
+          "description": "Server Pinger Fixer from Modrinth"
+        },
+        {
+          "name": "Shulker Box Tooltip",
+          "source": "modrinth",
+          "id": "2M01OLQq",
+          "version": "5.2.6+1.21.5-fabric",
+          "required": false,
+          "description": "Shulker Box Tooltip from Modrinth"
+        },
+        {
+          "name": "totemtweaks",
+          "source": "modrinth",
+          "id": "1cfO6J6t",
+          "version": "1.21.5-1.0.1",
+          "required": false,
+          "description": "smallpop from Modrinth"
+        },
+        {
+          "name": "Smoke Suppression",
+          "source": "modrinth",
+          "id": "nKcekY2P",
+          "version": "1.2.3+MC1.21.2-1.21.6",
+          "required": false,
+          "description": "Smoke Suppression from Modrinth"
+        },
+        {
+          "name": "Smooth Scrolling Refurbished",
+          "source": "modrinth",
+          "id": "trr0scVt",
+          "version": "1.3.0+1.21.4",
+          "required": false,
+          "description": "Smooth Scrolling Refurbished from Modrinth"
+        },
+        {
+          "name": "Sodium",
+          "source": "modrinth",
+          "id": "AANobbMI",
+          "version": "mc1.21.5-0.6.13-fabric",
+          "required": false,
+          "description": "Sodium from Modrinth"
+        },
+        {
+          "name": "Sodium Extra",
+          "source": "modrinth",
+          "id": "PtjYWJkn",
+          "version": "mc1.21.5-0.6.3+fabric",
+          "required": false,
+          "description": "Sodium Extra from Modrinth"
+        },
+        {
+          "name": "Status Effect Timer",
+          "source": "modrinth",
+          "id": "T9FDHbY5",
+          "version": "1.2.0+1.21",
+          "required": false,
+          "description": "Status Effect Timer from Modrinth"
+        },
+        {
+          "name": "ThreadTweak",
+          "source": "modrinth",
+          "id": "vSEH1ERy",
+          "version": "0.1.7",
+          "required": false,
+          "description": "ThreadTweak from Modrinth"
+        },
+        {
+          "name": "Time Changer",
+          "source": "modrinth",
+          "id": "1itdse3V",
+          "version": "1.3.2",
+          "required": false,
+          "description": "Time Changer from Modrinth"
+        },
+        {
+          "name": "Vectorientation",
+          "source": "modrinth",
+          "id": "NpPKJQg6",
+          "version": "1.1",
+          "required": false,
+          "description": "Vectorientation from Modrinth"
+        },
+        {
+          "name": "ViaFabricPlus",
+          "source": "modrinth",
+          "id": "rIC2XJV4",
+          "version": "4.1.5",
+          "required": false,
+          "description": "ViaFabricPlus from Modrinth"
+        },
+        {
+          "name": "Yet Another Config Lib",
+          "source": "modrinth",
+          "id": "1eAoo2KR",
+          "version": "3.7.1+1.21.5-fabric",
+          "required": false,
+          "description": "Yet Another Config Lib from Modrinth"
+        }
+      ]
+    },
+    "1.21.6": {
+      "mods": [
+        {
+          "name": "Architectury",
+          "source": "modrinth",
+          "id": "lhGA9TYQ",
+          "version": "17.0.6+fabric",
+          "required": false,
+          "description": "Architectury from Modrinth"
+        },
+        {
+          "name": "BadOptimizations",
+          "source": "modrinth",
+          "id": "g96Z4WVZ",
+          "version": "2.2.3",
+          "required": false,
+          "description": "BadOptimizations from Modrinth"
+        },
+        {
+          "name": "BetterGrassify",
+          "source": "modrinth",
+          "id": "m5T5xmUy",
+          "version": "1.7.0+fabric.1.21.6",
+          "required": false,
+          "description": "BetterGrassify from Modrinth"
+        },
+        {
+          "name": "Borderless Fullscreen",
+          "source": "modrinth",
+          "id": "UIexcMP1",
+          "version": "2.2.1",
+          "required": false,
+          "description": "Borderless Fullscreen from Modrinth"
+        },
+        {
+          "name": "Cloth Config",
+          "source": "modrinth",
+          "id": "9s6osm5g",
+          "version": "19.0.147+fabric",
+          "required": false,
+          "description": "Cloth Config from Modrinth"
+        },
+        {
+          "name": "commandkeys",
+          "source": "modrinth",
+          "id": "65UyswbY",
+          "version": "2.3.10+1.21.6",
+          "required": false,
+          "description": "commandkeys from Modrinth"
+        },
+        {
+          "name": "Dynamic FPS",
+          "source": "modrinth",
+          "id": "LQ3K71Q1",
+          "version": "3.9.5",
+          "required": false,
+          "description": "Dynamic FPS from Modrinth"
+        },
+        {
+          "name": "Entity Culling",
+          "source": "modrinth",
+          "id": "NNAgCjsB",
+          "version": "1.8.0",
+          "required": false,
+          "description": "Entity Culling from Modrinth"
+        },
+        {
+          "name": "Entity Texture Features",
+          "source": "modrinth",
+          "id": "BVzZfTc1",
+          "version": "6.2.14",
+          "required": false,
+          "description": "Entity Texture Features from Modrinth"
+        },
+        {
+          "name": "Entity View Distance",
+          "source": "modrinth",
+          "id": "ihnBJ6on",
+          "version": "1.5.0+1.21.6",
+          "required": false,
+          "description": "Entity View Distance from Modrinth"
+        },
+        {
+          "name": "Fabric API",
+          "source": "modrinth",
+          "id": "P7dR8mSH",
+          "version": "0.127.1+1.21.6",
+          "required": false,
+          "description": "Fabric API from Modrinth"
+        },
+        {
+          "name": "Fabric Language Kotlin",
+          "source": "modrinth",
+          "id": "Ha28R6CL",
+          "version": "1.13.3+kotlin.2.1.21",
+          "required": false,
+          "description": "Fabric Language Kotlin from Modrinth"
+        },
+        {
+          "name": "FastQuit",
+          "source": "modrinth",
+          "id": "x1hIzbuY",
+          "version": "3.1.1+mc1.21.6",
+          "required": false,
+          "description": "FastQuit from Modrinth"
+        },
+        {
+          "name": "FerriteCore",
+          "source": "modrinth",
+          "id": "uXXizFIs",
+          "version": "8.0.0-fabric",
+          "required": false,
+          "description": "FerriteCore from Modrinth"
+        },
+        {
+          "name": "Forge Config API Port",
+          "source": "modrinth",
+          "id": "ohNO6lps",
+          "version": "v21.6.2-1.21.6-Fabric",
+          "required": false,
+          "description": "Forge Config API Port from Modrinth"
+        },
+        {
+          "name": "ImmediatelyFast",
+          "source": "modrinth",
+          "id": "5ZwdcRci",
+          "version": "1.10.1+1.21.6-fabric",
+          "required": false,
+          "description": "ImmediatelyFast from Modrinth"
+        },
+        {
+          "name": "Krypton",
+          "source": "modrinth",
+          "id": "fQEb0iXm",
+          "version": "0.2.9",
+          "required": false,
+          "description": "Krypton from Modrinth"
+        },
+        {
+          "name": "Ksyxis",
+          "source": "modrinth",
+          "id": "2ecVyZ49",
+          "version": "1.3.3",
+          "required": false,
+          "description": "Ksyxis from Modrinth"
+        },
+        {
+          "name": "Language Reload",
+          "source": "modrinth",
+          "id": "uLbm7CG6",
+          "version": "1.7.4+1.21.6",
+          "required": false,
+          "description": "Language Reload from Modrinth"
+        },
+        {
+          "name": "Lithium",
+          "source": "modrinth",
+          "id": "gvQqBUqZ",
+          "version": "mc1.21.6-0.17.0-fabric",
+          "required": false,
+          "description": "Lithium from Modrinth"
+        },
+        {
+          "name": "Mod Menu",
+          "source": "modrinth",
+          "id": "mOgUt4GM",
+          "version": "15.0.0-beta.3",
+          "required": false,
+          "description": "Mod Menu from Modrinth"
+        },
+        {
+          "name": "More Chat History",
+          "source": "modrinth",
+          "id": "8qkXwOnk",
+          "version": "1.3.1",
+          "required": false,
+          "description": "More Chat History from Modrinth"
+        },
+        {
+          "name": "No Resource Pack Warnings",
+          "source": "modrinth",
+          "id": "6xKUDQcB",
+          "version": "1.3.1",
+          "required": false,
+          "description": "No Resource Pack Warnings from Modrinth"
+        },
+        {
+          "name": "Ok Zoomer",
+          "source": "modrinth",
+          "id": "aXf2OSFU",
+          "version": "14.0.0-beta.1+fabric",
+          "required": false,
+          "description": "Ok Zoomer from Modrinth"
+        },
+        {
+          "name": "Reeses Sodium Options",
+          "source": "modrinth",
+          "id": "Bh37bMuy",
+          "version": "mc1.21.6-1.8.4+fabric",
+          "required": false,
+          "description": "Reeses Sodium Options from Modrinth"
+        },
+        {
+          "name": "rrls",
+          "source": "modrinth",
+          "id": "ZP7xHXtw",
+          "version": "5.1.8+mc1.21.6-fabric",
+          "required": false,
+          "description": "Rrls from Modrinth"
+        },
+        {
+          "name": "Resourceful Config",
+          "source": "modrinth",
+          "id": "M1953qlQ",
+          "version": "3.6.1",
+          "required": false,
+          "description": "Resourceful Config from Modrinth"
+        },
+        {
+          "name": "ScalableLux",
+          "source": "modrinth",
+          "id": "Ps1zyz6x",
+          "version": "0.1.4+fabric.b88b7b4",
+          "required": false,
+          "description": "ScalableLux from Modrinth"
+        },
+        {
+          "name": "Server Pinger Fixer",
+          "source": "modrinth",
+          "id": "iqK5uv72",
+          "version": "1.0.5",
+          "required": false,
+          "description": "Server Pinger Fixer from Modrinth"
+        },
+        {
+          "name": "Shulker Box Tooltip",
+          "source": "modrinth",
+          "id": "2M01OLQq",
+          "version": "5.2.7+1.21.6-fabric",
+          "required": false,
+          "description": "Shulker Box Tooltip from Modrinth"
+        },
+        {
+          "name": "Smoke Suppression",
+          "source": "modrinth",
+          "id": "nKcekY2P",
+          "version": "1.2.3+MC1.21.2-1.21.6",
+          "required": false,
+          "description": "Smoke Suppression from Modrinth"
+        },
+        {
+          "name": "Sodium",
+          "source": "modrinth",
+          "id": "AANobbMI",
+          "version": "mc1.21.6-0.6.13-fabric",
+          "required": false,
+          "description": "Sodium from Modrinth"
+        },
+        {
+          "name": "ViaFabricPlus",
+          "source": "modrinth",
+          "id": "rIC2XJV4",
+          "version": "4.2.0",
+          "required": false,
+          "description": "ViaFabricPlus from Modrinth"
+        },
+        {
+          "name": "Yet Another Config Lib",
+          "source": "modrinth",
+          "id": "1eAoo2KR",
+          "version": "3.7.1+1.21.6-fabric",
+          "required": false,
+          "description": "Yet Another Config Lib from Modrinth"
+        }
+      ]
+    },
+    "1.21.7": {
+      "mods": [
+        {
+          "name": "Architectury",
+          "source": "modrinth",
+          "id": "lhGA9TYQ",
+          "version": "17.0.6+fabric",
+          "required": false,
+          "description": "Architectury from Modrinth"
+        },
+        {
+          "name": "BadOptimizations",
+          "source": "modrinth",
+          "id": "g96Z4WVZ",
+          "version": "2.2.3",
+          "required": false,
+          "description": "BadOptimizations from Modrinth"
+        },
+        {
+          "name": "BetterGrassify",
+          "source": "modrinth",
+          "id": "m5T5xmUy",
+          "version": "1.7.0+fabric.1.21.6",
+          "required": false,
+          "description": "BetterGrassify from Modrinth"
+        },
+        {
+          "name": "Bobby",
+          "source": "modrinth",
+          "id": "M08ruV16",
+          "version": "5.2.8+mc1.21.6",
+          "required": false,
+          "description": "Bobby from Modrinth"
+        },
+        {
+          "name": "Borderless Fullscreen",
+          "source": "modrinth",
+          "id": "UIexcMP1",
+          "version": "2.2.1",
+          "required": false,
+          "description": "Borderless Fullscreen from Modrinth"
+        },
+        {
+          "name": "Cloth Config",
+          "source": "modrinth",
+          "id": "9s6osm5g",
+          "version": "19.0.147+fabric",
+          "required": false,
+          "description": "Cloth Config from Modrinth"
+        },
+        {
+          "name": "commandkeys",
+          "source": "modrinth",
+          "id": "65UyswbY",
+          "version": "2.3.10+1.21.6",
+          "required": false,
+          "description": "commandkeys from Modrinth"
+        },
+        {
+          "name": "Debugify",
+          "source": "modrinth",
+          "id": "QwxR6Gcd",
+          "version": "1.21.7+1.0",
+          "required": false,
+          "description": "Debugify from Modrinth"
+        },
+        {
+          "name": "Dynamic FPS",
+          "source": "modrinth",
+          "id": "LQ3K71Q1",
+          "version": "3.9.6",
+          "required": false,
+          "description": "Dynamic FPS from Modrinth"
+        },
+        {
+          "name": "Entity Texture Features",
+          "source": "modrinth",
+          "id": "BVzZfTc1",
+          "version": "6.2.14",
+          "required": false,
+          "description": "Entity Texture Features from Modrinth"
+        },
+        {
+          "name": "Entity View Distance",
+          "source": "modrinth",
+          "id": "ihnBJ6on",
+          "version": "1.5.0+1.21.6",
+          "required": false,
+          "description": "Entity View Distance from Modrinth"
+        },
+        {
+          "name": "Fabric API",
+          "source": "modrinth",
+          "id": "P7dR8mSH",
+          "version": "0.128.1+1.21.7",
+          "required": false,
+          "description": "Fabric API from Modrinth"
+        },
+        {
+          "name": "Fabric Language Kotlin",
+          "source": "modrinth",
+          "id": "Ha28R6CL",
+          "version": "1.13.4+kotlin.2.2.0",
+          "required": false,
+          "description": "Fabric Language Kotlin from Modrinth"
+        },
+        {
+          "name": "ImmediatelyFast",
+          "source": "modrinth",
+          "id": "5ZwdcRci",
+          "version": "1.11.0+1.21.7-fabric",
+          "required": false,
+          "description": "ImmediatelyFast from Modrinth"
+        },
+        {
+          "name": "Ksyxis",
+          "source": "modrinth",
+          "id": "2ecVyZ49",
+          "version": "1.3.3",
+          "required": false,
+          "description": "Ksyxis from Modrinth"
+        },
+        {
+          "name": "Language Reload",
+          "source": "modrinth",
+          "id": "uLbm7CG6",
+          "version": "1.7.4+1.21.6",
+          "required": false,
+          "description": "Language Reload from Modrinth"
+        },
+        {
+          "name": "Mod Menu",
+          "source": "modrinth",
+          "id": "mOgUt4GM",
+          "version": "15.0.0-beta.3",
+          "required": false,
+          "description": "Mod Menu from Modrinth"
+        },
+        {
+          "name": "More Chat History",
+          "source": "modrinth",
+          "id": "8qkXwOnk",
+          "version": "1.3.1",
+          "required": false,
+          "description": "More Chat History from Modrinth"
+        },
+        {
+          "name": "Ok Zoomer",
+          "source": "modrinth",
+          "id": "aXf2OSFU",
+          "version": "14.0.0-beta.1+fabric",
+          "required": false,
+          "description": "Ok Zoomer from Modrinth"
+        },
+        {
+          "name": "Reeses Sodium Options",
+          "source": "modrinth",
+          "id": "Bh37bMuy",
+          "version": "mc1.21.6-1.8.4+fabric",
+          "required": false,
+          "description": "Reeses Sodium Options from Modrinth"
+        },
+        {
+          "name": "ScalableLux",
+          "source": "modrinth",
+          "id": "Ps1zyz6x",
+          "version": "0.1.5+fabric.e4acdcb",
+          "required": false,
+          "description": "ScalableLux from Modrinth"
+        },
+        {
+          "name": "Server Pinger Fixer",
+          "source": "modrinth",
+          "id": "iqK5uv72",
+          "version": "1.0.5",
+          "required": false,
+          "description": "Server Pinger Fixer from Modrinth"
+        },
+        {
+          "name": "Shulker Box Tooltip",
+          "source": "modrinth",
+          "id": "2M01OLQq",
+          "version": "5.2.7+1.21.6-fabric",
+          "required": false,
+          "description": "Shulker Box Tooltip from Modrinth"
+        },
+        {
+          "name": "Smooth Scrolling Refurbished",
+          "source": "modrinth",
+          "id": "trr0scVt",
+          "version": "1.4.0",
+          "required": false,
+          "description": "Smooth Scrolling Refurbished from Modrinth"
+        },
+        {
+          "name": "Smooth Skies",
+          "source": "modrinth",
+          "id": "uvlgIwBD",
+          "version": "2.10.7",
+          "required": false,
+          "description": "Smooth Skies from Modrinth"
+        },
+        {
+          "name": "Sodium",
+          "source": "modrinth",
+          "id": "AANobbMI",
+          "version": "mc1.21.6-0.6.13-fabric",
+          "required": false,
+          "description": "Sodium from Modrinth"
+        },
+        {
+          "name": "Sodium Extra",
+          "source": "modrinth",
+          "id": "PtjYWJkn",
+          "version": "mc1.21.6-0.6.6+fabric",
+          "required": false,
+          "description": "Sodium Extra from Modrinth"
+        },
+        {
+          "name": "Yet Another Config Lib",
+          "source": "modrinth",
+          "id": "1eAoo2KR",
+          "version": "3.7.1+1.21.6-fabric",
+          "required": false,
+          "description": "Yet Another Config Lib from Modrinth"
+        }
+      ]
+    }
+  },
+  "sources": {
+    "modrinth": {
+      "api_base": "https://api.modrinth.com/v2",
+      "user_agent": "Ogulniega-Launcher/1.0.0 (contact@example.com)"
+    },
+    "github": {
+      "api_base": "https://api.github.com",
+      "user_agent": "Ogulniega-Launcher/1.0.0"
+    },
+    "direct": {
+      "user_agent": "Ogulniega-Launcher/1.0.0"
+    }
+  },
+  "settings": {
+    "download_timeout": 30000,
+    "max_retries": 3,
+    "fallback_to_older_versions": true,
+    "skip_optional_on_error": true
+  }
+}

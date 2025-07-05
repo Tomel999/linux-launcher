@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Security-Policy" content="script-src 'self' app:; style-src 'self' app: 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com;">
+    <title>Game Launcher</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Roboto:wght@400;500;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="launcher-container">
+
+        <div class="title-bar">
+            <div class="title"></div>
+            <div class="window-controls">
+                <button id="minimize-btn" class="win-btn" title="Minimize">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24"><path fill="currentColor" d="M20 14H4v-4h16"></path></svg>
+                </button>
+                <button id="maximize-btn" class="win-btn" title="Maximize">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24"><path fill="currentColor" d="M4 4h16v16H4zm2 4v10h12V8"></path></svg>
+                </button>
+                <button id="close-btn" class="win-btn close-btn" title="Close">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24"><path fill="currentColor" d="M19 6.41L17.59 5L12 10.59L6.41 5L5 6.41L10.59 12L5 17.59L6.41 19L12 13.41L17.59 19L19 17.59L13.41 12"></path></svg>
+                </button>
+            </div>
+        </div>
+
+        <div class="main-content">
+            <div class="header-section">
+                <div class="logo-placeholder"></div>
+                <div class="launcher-info">
+                    <h1 class="launcher-title">Ogulniega Launcher</h1>
+                </div>
+            </div>
+
+            <div class="settings-panel">
+                <h2 class="panel-header">Launch Settings</h2>
+
+                <div class="settings-grid">
+                    <div class="setting-card">
+                        <label class="setting-label" for="version-dropdown">Game Version</label>
+                        <div class="dropdown-container">
+                            <div id="version-dropdown" class="dropdown-button" tabindex="0" role="combobox" aria-expanded="false">
+                                <span id="selected-version">Loading versions...</span>
+                            </div>
+                            <div id="version-list" class="dropdown-list" role="listbox">
+
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="setting-card">
+                        <label class="setting-label" for="ram-slider">Memory Allocation</label>
+                        <div class="slider-container">
+                            <input type="range" id="ram-slider" min="2" max="16" value="4" step="1" class="slider" aria-label="Memory allocation in GB">
+                            <div class="slider-value" id="slider-value">4GB</div>
+                        </div>
+                    </div>
+
+                    <div class="setting-card">
+                        <label class="setting-label" for="resolution-dropdown">Window Size</label>
+                        <div class="dropdown-container">
+                            <div id="resolution-dropdown" class="dropdown-button" tabindex="0" role="combobox" aria-expanded="false">
+                                <span id="selected-resolution">1920x1080</span>
+                            </div>
+                            <div id="resolution-list" class="dropdown-list" role="listbox">
+                                <div class="dropdown-item" data-resolution="1920x1080" role="option">1920x1080 (Full HD)</div>
+                                <div class="dropdown-item" data-resolution="1600x900" role="option">1600x900 (HD+)</div>
+                                <div class="dropdown-item" data-resolution="1366x768" role="option">1366x768 (HD)</div>
+                                <div class="dropdown-item" data-resolution="1280x720" role="option">1280x720 (HD Ready)</div>
+                                <div class="dropdown-item" data-resolution="fullscreen" role="option">Fullscreen</div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+        <div class="footer">
+            <div id="status-container">
+                <div id="spinner" class="spinner hidden" aria-hidden="true"></div>
+                <div id="status">Ready to launch</div>
+            </div>
+            <div class="action-buttons">
+                <button id="reinstall-fabric-btn" class="mc-btn" type="button">
+                    <span>Repair</span>
+                </button>
+                <button id="download-mods-btn" class="mc-btn" type="button">
+                    <span>Download Mods</span>
+                </button>
+                <button id="launch-btn" class="mc-btn play-btn" type="button">
+                    <span>Launch Game</span>
+                </button>
+            </div>
+        </div>
+    </div>
+    <script src="./renderer.js"></script>
+</body>
+</html>
